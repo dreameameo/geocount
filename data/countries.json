@@ -1,0 +1,6019 @@
+[
+    {
+        "name": "Afghanistan",
+        "official_name": "افغانستان",
+        "capital": "Kabul",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 26023100,
+        "area": 652230.0,
+        "currencies": [
+            "AFN"
+        ],
+        "languages": [
+            "ps",
+            "uz",
+            "tk",
+            "fa"
+        ],
+        "borders": [
+            "IRN",
+            "PAK",
+            "TKM",
+            "UZB",
+            "TJK",
+            "CHN"
+        ],
+        "cca2": "AF",
+        "cca3": "AFG",
+        "latitude": 33,
+        "longitude": 65
+    },
+    {
+        "name": "Albania",
+        "official_name": "Shqipëria",
+        "capital": "Tirana",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 2895947,
+        "area": 28748.0,
+        "currencies": [
+            "ALL"
+        ],
+        "languages": [
+            "sq"
+        ],
+        "borders": [
+            "MNE",
+            "GRC",
+            "MKD",
+            "XKX"
+        ],
+        "cca2": "AL",
+        "cca3": "ALB",
+        "latitude": 41,
+        "longitude": 20
+    },
+    {
+        "name": "Algeria",
+        "official_name": "Algérie / ⵍⵣⵣⴰⵢⴻⵔ / الجزائر",
+        "capital": "Algiers",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 38700000,
+        "area": 2381741.0,
+        "currencies": [
+            "DZD"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "TUN",
+            "LBY",
+            "NER",
+            "ESH",
+            "MRT",
+            "MLI",
+            "MAR"
+        ],
+        "cca2": "DZ",
+        "cca3": "DZA",
+        "latitude": 28,
+        "longitude": 3
+    },
+    {
+        "name": "American Samoa",
+        "official_name": "American Samoa",
+        "capital": "Pago Pago",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 55519,
+        "area": 199.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "en",
+            "sm"
+        ],
+        "borders": [],
+        "cca2": "AS",
+        "cca3": "ASM",
+        "latitude": -14.33333333,
+        "longitude": -170
+    },
+    {
+        "name": "Andorra",
+        "official_name": "Principat d'Andorra",
+        "capital": "Andorra la Vella",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 81588,
+        "area": 467.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "ca",
+            "fr",
+            "es",
+            "oc"
+        ],
+        "borders": [
+            "FRA",
+            "ESP"
+        ],
+        "cca2": "AD",
+        "cca3": "AND",
+        "latitude": 42.5,
+        "longitude": 1.5
+    },
+    {
+        "name": "Angola",
+        "official_name": "Angola",
+        "capital": "Luanda",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 24383301,
+        "area": 1246700.0,
+        "currencies": [
+            "AOA"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "borders": [
+            "COG",
+            "COD",
+            "ZMB",
+            "NAM"
+        ],
+        "cca2": "AO",
+        "cca3": "AGO",
+        "latitude": -12.5,
+        "longitude": 18.5
+    },
+    {
+        "name": "Anguilla",
+        "official_name": "Anguilla",
+        "capital": "The Valley",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 13452,
+        "area": 91.0,
+        "currencies": [
+            "XCD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "AI",
+        "cca3": "AIA",
+        "latitude": 18.25,
+        "longitude": -63.16666666
+    },
+    {
+        "name": "Antarctica",
+        "official_name": "Antarctica",
+        "capital": "N/A",
+        "region": "",
+        "subregion": "",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "AQ",
+        "cca3": "ATA",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "official_name": "Antigua and Barbuda",
+        "capital": "Saint John's",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 86295,
+        "area": 442.0,
+        "currencies": [
+            "XCD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "AG",
+        "cca3": "ATG",
+        "latitude": 17.05,
+        "longitude": -61.8
+    },
+    {
+        "name": "Antilles néerlandaises",
+        "official_name": "Antilles néerlandaises",
+        "capital": "Willemstad",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "AN",
+        "cca3": "ANT",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Argentina",
+        "official_name": "Argentina",
+        "capital": "Buenos Aires",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 42669500,
+        "area": 2780400.0,
+        "currencies": [
+            "ARS"
+        ],
+        "languages": [
+            "es",
+            "gn"
+        ],
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "PRY",
+            "URY"
+        ],
+        "cca2": "AR",
+        "cca3": "ARG",
+        "latitude": -34,
+        "longitude": -64
+    },
+    {
+        "name": "Armenia",
+        "official_name": "Հայաստան",
+        "capital": "Yerevan",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 3009800,
+        "area": 29743.0,
+        "currencies": [
+            "AMD"
+        ],
+        "languages": [
+            "hy",
+            "ru",
+            "de",
+            "el",
+            "ku",
+            "uk"
+        ],
+        "borders": [
+            "AZE",
+            "GEO",
+            "IRN",
+            "TUR"
+        ],
+        "cca2": "AM",
+        "cca3": "ARM",
+        "latitude": 40,
+        "longitude": 45
+    },
+    {
+        "name": "Aruba",
+        "official_name": "Aruba",
+        "capital": "Oranjestad",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 101484,
+        "area": 180.0,
+        "currencies": [
+            "AWG"
+        ],
+        "languages": [
+            "nl",
+            "pap"
+        ],
+        "borders": [],
+        "cca2": "AW",
+        "cca3": "ABW",
+        "latitude": 12.5,
+        "longitude": -69.96666666
+    },
+    {
+        "name": "Australia",
+        "official_name": "Australia",
+        "capital": "Canberra",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 23696900,
+        "area": 7692024.0,
+        "currencies": [
+            "AUD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "AU",
+        "cca3": "AUS",
+        "latitude": -27,
+        "longitude": 133
+    },
+    {
+        "name": "Austria",
+        "official_name": "Österreich",
+        "capital": "Vienna",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 8527230,
+        "area": 83871.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "de",
+            "hr",
+            "cs",
+            "hu",
+            "rom",
+            "sk",
+            "sl"
+        ],
+        "borders": [
+            "CZE",
+            "DEU",
+            "HUN",
+            "ITA",
+            "LIE",
+            "SVK",
+            "SVN",
+            "CHE"
+        ],
+        "cca2": "AT",
+        "cca3": "AUT",
+        "latitude": 47.33333333,
+        "longitude": 13.33333333
+    },
+    {
+        "name": "Azerbaijan",
+        "official_name": "Azərbaycan",
+        "capital": "Baku",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 9552500,
+        "area": 86600.0,
+        "currencies": [
+            "AZN"
+        ],
+        "languages": [
+            "az",
+            "hy"
+        ],
+        "borders": [
+            "ARM",
+            "GEO",
+            "IRN",
+            "RUS",
+            "TUR"
+        ],
+        "cca2": "AZ",
+        "cca3": "AZE",
+        "latitude": 40.5,
+        "longitude": 47.5
+    },
+    {
+        "name": "Bahrain",
+        "official_name": "‏البحرين",
+        "capital": "Manama",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 1316500,
+        "area": 765.0,
+        "currencies": [
+            "BHD"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [],
+        "cca2": "BH",
+        "cca3": "BHR",
+        "latitude": 26,
+        "longitude": 50.55
+    },
+    {
+        "name": "Bangladesh",
+        "official_name": "বাংলাদেশ",
+        "capital": "Dhaka",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 157486000,
+        "area": 147570.0,
+        "currencies": [
+            "BDT"
+        ],
+        "languages": [
+            "bn"
+        ],
+        "borders": [
+            "MMR",
+            "IND"
+        ],
+        "cca2": "BD",
+        "cca3": "BGD",
+        "latitude": 24,
+        "longitude": 90
+    },
+    {
+        "name": "Barbados",
+        "official_name": "Barbados",
+        "capital": "Bridgetown",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 285000,
+        "area": 430.0,
+        "currencies": [
+            "BBD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "BB",
+        "cca3": "BRB",
+        "latitude": 13.16666666,
+        "longitude": -59.53333333
+    },
+    {
+        "name": "Belarus",
+        "official_name": "Белару́сь",
+        "capital": "Minsk",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 9475100,
+        "area": 207600.0,
+        "currencies": [
+            "BYR"
+        ],
+        "languages": [
+            "be",
+            "ru"
+        ],
+        "borders": [
+            "LVA",
+            "LTU",
+            "POL",
+            "RUS",
+            "UKR"
+        ],
+        "cca2": "BY",
+        "cca3": "BLR",
+        "latitude": 53,
+        "longitude": 28
+    },
+    {
+        "name": "Belgium",
+        "official_name": "België / Belgique / Belgien",
+        "capital": "Brussels",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 11225469,
+        "area": 30528.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "nl",
+            "fr",
+            "de"
+        ],
+        "borders": [
+            "FRA",
+            "DEU",
+            "LUX",
+            "NLD"
+        ],
+        "cca2": "BE",
+        "cca3": "BEL",
+        "latitude": 50.83333333,
+        "longitude": 4
+    },
+    {
+        "name": "Belize",
+        "official_name": "Belize",
+        "capital": "Belmopan",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 349728,
+        "area": 22966.0,
+        "currencies": [
+            "BZD"
+        ],
+        "languages": [
+            "en",
+            "es"
+        ],
+        "borders": [
+            "GTM",
+            "MEX"
+        ],
+        "cca2": "BZ",
+        "cca3": "BLZ",
+        "latitude": 17.25,
+        "longitude": -88.75
+    },
+    {
+        "name": "Benin",
+        "official_name": "Bénin",
+        "capital": "Porto-Novo",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 9988068,
+        "area": 112622.0,
+        "currencies": [
+            "XOF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "BFA",
+            "NER",
+            "NGA",
+            "TGO"
+        ],
+        "cca2": "BJ",
+        "cca3": "BEN",
+        "latitude": 9.5,
+        "longitude": 2.25
+    },
+    {
+        "name": "Bermuda",
+        "official_name": "Bermuda",
+        "capital": "Hamilton",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "population": 64237,
+        "area": 54.0,
+        "currencies": [
+            "BMD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "BM",
+        "cca3": "BMU",
+        "latitude": 32.33333333,
+        "longitude": -64.75
+    },
+    {
+        "name": "Bhutan",
+        "official_name": "འབྲུགཡུལ་",
+        "capital": "Thimphu",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 755030,
+        "area": 38394.0,
+        "currencies": [
+            "BTN",
+            "INR"
+        ],
+        "languages": [
+            "dz"
+        ],
+        "borders": [
+            "CHN",
+            "IND"
+        ],
+        "cca2": "BT",
+        "cca3": "BTN",
+        "latitude": 27.5,
+        "longitude": 90.5
+    },
+    {
+        "name": "Bolivia",
+        "official_name": "Bolivia",
+        "capital": "Sucre",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 10027254,
+        "area": 1098581.0,
+        "currencies": [
+            "BOB",
+            "BOV"
+        ],
+        "languages": [
+            "es",
+            "ay",
+            "qu"
+        ],
+        "borders": [
+            "ARG",
+            "BRA",
+            "CHL",
+            "PRY",
+            "PER"
+        ],
+        "cca2": "BO",
+        "cca3": "BOL",
+        "latitude": -17,
+        "longitude": -65
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "official_name": "Bonaire, Sint Eustatius and Saba",
+        "capital": "Kralendijk / Oranjestad / The Bottom",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "BQ",
+        "cca3": "BES",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "official_name": "Bosna i Hercegovina / Босна и Херцеговина",
+        "capital": "Sarajevo",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 3791622,
+        "area": 51209.0,
+        "currencies": [
+            "BAM"
+        ],
+        "languages": [
+            "bs",
+            "hr",
+            "sr"
+        ],
+        "borders": [
+            "HRV",
+            "MNE",
+            "SRB"
+        ],
+        "cca2": "BA",
+        "cca3": "BIH",
+        "latitude": 44,
+        "longitude": 18
+    },
+    {
+        "name": "Botswana",
+        "official_name": "Botswana",
+        "capital": "Gaborone",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 2024904,
+        "area": 582000.0,
+        "currencies": [
+            "BWP"
+        ],
+        "languages": [
+            "en",
+            "tn"
+        ],
+        "borders": [
+            "NAM",
+            "ZAF",
+            "ZMB",
+            "ZWE"
+        ],
+        "cca2": "BW",
+        "cca3": "BWA",
+        "latitude": -22,
+        "longitude": 24
+    },
+    {
+        "name": "Bouvet Island",
+        "official_name": "Bouvet Island",
+        "capital": "N/A",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "BV",
+        "cca3": "BVT",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Brazil",
+        "official_name": "Brasil",
+        "capital": "Brasília",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 203586000,
+        "area": 8515767.0,
+        "currencies": [
+            "BRL"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "COL",
+            "GUF",
+            "GUY",
+            "PRY",
+            "PER",
+            "SUR",
+            "URY",
+            "VEN"
+        ],
+        "cca2": "BR",
+        "cca3": "BRA",
+        "latitude": -10,
+        "longitude": -55
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "official_name": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 3000,
+        "area": 60.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "IO",
+        "cca3": "IOT",
+        "latitude": -6,
+        "longitude": 71.5
+    },
+    {
+        "name": "Brunei",
+        "official_name": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 393372,
+        "area": 5765.0,
+        "currencies": [
+            "BND"
+        ],
+        "languages": [
+            "ms"
+        ],
+        "borders": [
+            "MYS"
+        ],
+        "cca2": "BN",
+        "cca3": "BRN",
+        "latitude": 4.5,
+        "longitude": 114.66666666
+    },
+    {
+        "name": "Bulgaria",
+        "official_name": "България",
+        "capital": "Sofia",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 7245677,
+        "area": 110879.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "bg"
+        ],
+        "borders": [
+            "GRC",
+            "MKD",
+            "ROU",
+            "SRB",
+            "TUR"
+        ],
+        "cca2": "BG",
+        "cca3": "BGR",
+        "latitude": 43,
+        "longitude": 25
+    },
+    {
+        "name": "Burkina Faso",
+        "official_name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 17322796,
+        "area": 272967.0,
+        "currencies": [
+            "XOF"
+        ],
+        "languages": [
+            "fr",
+            "ff"
+        ],
+        "borders": [
+            "BEN",
+            "CIV",
+            "GHA",
+            "MLI",
+            "NER",
+            "TGO"
+        ],
+        "cca2": "BF",
+        "cca3": "BFA",
+        "latitude": 13,
+        "longitude": -2
+    },
+    {
+        "name": "Burma",
+        "official_name": "Myanma",
+        "capital": "Naypyidaw",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "population": 57526449,
+        "area": 676570.0,
+        "currencies": [
+            "MMK"
+        ],
+        "languages": [
+            "my"
+        ],
+        "borders": [
+            "BGD",
+            "CHN",
+            "IND",
+            "LAO",
+            "THA"
+        ],
+        "cca2": "MM",
+        "cca3": "MMR",
+        "latitude": 22,
+        "longitude": 98
+    },
+    {
+        "name": "Burundi",
+        "official_name": "Burundi",
+        "capital": "Bujumbura",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 9530434,
+        "area": 27834.0,
+        "currencies": [
+            "BIF"
+        ],
+        "languages": [
+            "fr",
+            "rn"
+        ],
+        "borders": [
+            "COD",
+            "RWA",
+            "TZA"
+        ],
+        "cca2": "BI",
+        "cca3": "BDI",
+        "latitude": -3.5,
+        "longitude": 30
+    },
+    {
+        "name": "Cambodia",
+        "official_name": "Kâmpŭchéa",
+        "capital": "Phnom Penh",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 15184116,
+        "area": 181035.0,
+        "currencies": [
+            "KHR"
+        ],
+        "languages": [
+            "km"
+        ],
+        "borders": [
+            "LAO",
+            "THA",
+            "VNM"
+        ],
+        "cca2": "KH",
+        "cca3": "KHM",
+        "latitude": 13,
+        "longitude": 105
+    },
+    {
+        "name": "Cameroon",
+        "official_name": "Cameroun",
+        "capital": "Yaoundé",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 20386799,
+        "area": 475442.0,
+        "currencies": [
+            "XAF"
+        ],
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "borders": [
+            "CAF",
+            "TCD",
+            "COG",
+            "GNQ",
+            "GAB",
+            "NGA"
+        ],
+        "cca2": "CM",
+        "cca3": "CMR",
+        "latitude": 6,
+        "longitude": 12
+    },
+    {
+        "name": "Canada",
+        "official_name": "Canada",
+        "capital": "Ottawa",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "population": 35540419,
+        "area": 9984670.0,
+        "currencies": [
+            "CAD"
+        ],
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "borders": [
+            "USA"
+        ],
+        "cca2": "CA",
+        "cca3": "CAN",
+        "latitude": 60,
+        "longitude": -95
+    },
+    {
+        "name": "Cape Verde",
+        "official_name": "Cabo Verde",
+        "capital": "Praia",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 518467,
+        "area": 4033.0,
+        "currencies": [
+            "CVE"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "borders": [],
+        "cca2": "CV",
+        "cca3": "CPV",
+        "latitude": 16,
+        "longitude": -24
+    },
+    {
+        "name": "Cayman Islands",
+        "official_name": "Cayman Islands",
+        "capital": "George Town",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 55456,
+        "area": 264.0,
+        "currencies": [
+            "KYD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "KY",
+        "cca3": "CYM",
+        "latitude": 19.5,
+        "longitude": -80.5
+    },
+    {
+        "name": "Central African Republic",
+        "official_name": "Ködörösêse tî Bêafrîka",
+        "capital": "Bangui",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 4709000,
+        "area": 622984.0,
+        "currencies": [
+            "XAF"
+        ],
+        "languages": [
+            "fr",
+            "sg"
+        ],
+        "borders": [
+            "CMR",
+            "TCD",
+            "COD",
+            "COG",
+            "SSD",
+            "SDN"
+        ],
+        "cca2": "CF",
+        "cca3": "CAF",
+        "latitude": 7,
+        "longitude": 21
+    },
+    {
+        "name": "Chad",
+        "official_name": "Tchad تشاد",
+        "capital": "N'Djamena",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 13211000,
+        "area": 1284000.0,
+        "currencies": [
+            "XAF"
+        ],
+        "languages": [
+            "fr",
+            "ar"
+        ],
+        "borders": [
+            "CMR",
+            "CAF",
+            "LBY",
+            "NER",
+            "NGA",
+            "SSD"
+        ],
+        "cca2": "TD",
+        "cca3": "TCD",
+        "latitude": 15,
+        "longitude": 19
+    },
+    {
+        "name": "Chile",
+        "official_name": "Chile",
+        "capital": "Santiago",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 17819054,
+        "area": 756102.0,
+        "currencies": [
+            "CLF",
+            "CLP"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "PER"
+        ],
+        "cca2": "CL",
+        "cca3": "CHL",
+        "latitude": -30,
+        "longitude": -71
+    },
+    {
+        "name": "China",
+        "official_name": "中国",
+        "capital": "Beijing",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 1367110000,
+        "area": 9640011.0,
+        "currencies": [
+            "CNY"
+        ],
+        "languages": [
+            "zh"
+        ],
+        "borders": [
+            "AFG",
+            "BTN",
+            "MMR",
+            "HKG",
+            "IND",
+            "KAZ",
+            "PRK",
+            "KGZ",
+            "LAO",
+            "MAC",
+            "MNG",
+            "PAK",
+            "RUS",
+            "TJK",
+            "VNM"
+        ],
+        "cca2": "CN",
+        "cca3": "CHN",
+        "latitude": 35,
+        "longitude": 105
+    },
+    {
+        "name": "Christmas Island",
+        "official_name": "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 2072,
+        "area": 135.0,
+        "currencies": [
+            "AUD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "CX",
+        "cca3": "CXR",
+        "latitude": -10.5,
+        "longitude": 105.66666666
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "official_name": "Cocos (Keeling) Islands",
+        "capital": "West Island",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 550,
+        "area": 14.0,
+        "currencies": [
+            "AUD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "CC",
+        "cca3": "CCK",
+        "latitude": -12.5,
+        "longitude": 96.83333333
+    },
+    {
+        "name": "Colombia",
+        "official_name": "Colombia",
+        "capital": "Bogotá",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 47907800,
+        "area": 1141748.0,
+        "currencies": [
+            "COP"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "BRA",
+            "ECU",
+            "PAN",
+            "PER",
+            "VEN"
+        ],
+        "cca2": "CO",
+        "cca3": "COL",
+        "latitude": 4,
+        "longitude": -72
+    },
+    {
+        "name": "Comoros",
+        "official_name": "Comores Komori جزر القمر",
+        "capital": "Moroni",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 763952,
+        "area": 1862.0,
+        "currencies": [
+            "KMF"
+        ],
+        "languages": [
+            "ar",
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "KM",
+        "cca3": "COM",
+        "latitude": -12.16666666,
+        "longitude": 44.25
+    },
+    {
+        "name": "Cook Islands",
+        "official_name": "Kūki 'Āirani",
+        "capital": "Avarua",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 14974,
+        "area": 236.0,
+        "currencies": [
+            "NZD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "CK",
+        "cca3": "COK",
+        "latitude": -21.23333333,
+        "longitude": -159.76666666
+    },
+    {
+        "name": "Costa Rica",
+        "official_name": "Costa Rica",
+        "capital": "San José",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 4713168,
+        "area": 51100.0,
+        "currencies": [
+            "CRC"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "NIC",
+            "PAN"
+        ],
+        "cca2": "CR",
+        "cca3": "CRI",
+        "latitude": 10,
+        "longitude": -84
+    },
+    {
+        "name": "Croatia",
+        "official_name": "Hrvatska",
+        "capital": "Zagreb",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 4267558,
+        "area": 56594.0,
+        "currencies": [
+            "HRK"
+        ],
+        "languages": [
+            "hr"
+        ],
+        "borders": [
+            "BIH",
+            "HUN",
+            "MNE",
+            "SRB",
+            "SVN"
+        ],
+        "cca2": "HR",
+        "cca3": "HRV",
+        "latitude": 45.16666666,
+        "longitude": 15.5
+    },
+    {
+        "name": "Cuba",
+        "official_name": "Cuba",
+        "capital": "Havana",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 11210064,
+        "area": 109884.0,
+        "currencies": [
+            "CUC",
+            "CUP"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [],
+        "cca2": "CU",
+        "cca3": "CUB",
+        "latitude": 21.5,
+        "longitude": -80
+    },
+    {
+        "name": "Curaçao",
+        "official_name": "Curaçao",
+        "capital": "Willemstad",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "CW",
+        "cca3": "CUW",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Cyprus",
+        "official_name": "Κύπρος - Kıbrıs",
+        "capital": "Nicosia",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 858000,
+        "area": 9251.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "el",
+            "tr",
+            "hy"
+        ],
+        "borders": [
+            "GBR"
+        ],
+        "cca2": "CY",
+        "cca3": "CYP",
+        "latitude": 35,
+        "longitude": 33
+    },
+    {
+        "name": "Czech Republic",
+        "official_name": "Česká republika",
+        "capital": "Prague",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 10521600,
+        "area": 78865.0,
+        "currencies": [
+            "CZK"
+        ],
+        "languages": [
+            "cs",
+            "sk"
+        ],
+        "borders": [
+            "AUT",
+            "DEU",
+            "POL",
+            "SVK"
+        ],
+        "cca2": "CZ",
+        "cca3": "CZE",
+        "latitude": 49.75,
+        "longitude": 15.5
+    },
+    {
+        "name": "Democratic Republic of the Congo",
+        "official_name": "République démocratique du Congo",
+        "capital": "Kinshasa",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 69360000,
+        "area": 2344858.0,
+        "currencies": [
+            "CDF"
+        ],
+        "languages": [
+            "fr",
+            "ln",
+            "kg",
+            "sw",
+            "lu"
+        ],
+        "borders": [
+            "AGO",
+            "BDI",
+            "CAF",
+            "COG",
+            "RWA",
+            "SSD",
+            "TZA",
+            "UGA",
+            "ZMB"
+        ],
+        "cca2": "CD",
+        "cca3": "COD",
+        "latitude": 0,
+        "longitude": 25
+    },
+    {
+        "name": "Denmark",
+        "official_name": "Danmark",
+        "capital": "Copenhagen",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 5655750,
+        "area": 43094.0,
+        "currencies": [
+            "DKK"
+        ],
+        "languages": [
+            "da",
+            "de"
+        ],
+        "borders": [
+            "DEU"
+        ],
+        "cca2": "DK",
+        "cca3": "DNK",
+        "latitude": 56,
+        "longitude": 10
+    },
+    {
+        "name": "Djibouti",
+        "official_name": "Djibouti",
+        "capital": "Djibouti",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 886000,
+        "area": 23200.0,
+        "currencies": [
+            "DJF"
+        ],
+        "languages": [
+            "fr",
+            "ar"
+        ],
+        "borders": [
+            "ERI",
+            "ETH",
+            "SOM"
+        ],
+        "cca2": "DJ",
+        "cca3": "DJI",
+        "latitude": 11.5,
+        "longitude": 43
+    },
+    {
+        "name": "Dominica",
+        "official_name": "Dominica",
+        "capital": "Roseau",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 71293,
+        "area": 751.0,
+        "currencies": [
+            "XCD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "DM",
+        "cca3": "DMA",
+        "latitude": 15.41666666,
+        "longitude": -61.33333333
+    },
+    {
+        "name": "Dominican Republic",
+        "official_name": "República Dominicana",
+        "capital": "Santo Domingo",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 10378267,
+        "area": 48671.0,
+        "currencies": [
+            "DOP"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "HTI"
+        ],
+        "cca2": "DO",
+        "cca3": "DOM",
+        "latitude": 19,
+        "longitude": -70.66666666
+    },
+    {
+        "name": "East Timor",
+        "official_name": "Timor-Leste",
+        "capital": "Dili",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 1172390,
+        "area": 14874.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "pt",
+            "tet"
+        ],
+        "borders": [
+            "IDN"
+        ],
+        "cca2": "TL",
+        "cca3": "TLS",
+        "latitude": -8.83333333,
+        "longitude": 125.91666666
+    },
+    {
+        "name": "Ecuador",
+        "official_name": "Ecuador",
+        "capital": "Quito",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 15888900,
+        "area": 276841.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "COL",
+            "PER"
+        ],
+        "cca2": "EC",
+        "cca3": "ECU",
+        "latitude": -2,
+        "longitude": -77.5
+    },
+    {
+        "name": "Egypt",
+        "official_name": "مصر‎",
+        "capital": "Cairo",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 87668100,
+        "area": 1002450.0,
+        "currencies": [
+            "EGP"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "ISR",
+            "LBY",
+            "SDN"
+        ],
+        "cca2": "EG",
+        "cca3": "EGY",
+        "latitude": 27,
+        "longitude": 30
+    },
+    {
+        "name": "El Salvador",
+        "official_name": "El Salvador",
+        "capital": "San Salvador",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 6401240,
+        "area": 21041.0,
+        "currencies": [
+            "SVC",
+            "USD"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "GTM",
+            "HND"
+        ],
+        "cca2": "SV",
+        "cca3": "SLV",
+        "latitude": 13.83333333,
+        "longitude": -88.91666666
+    },
+    {
+        "name": "Equatorial Guinea",
+        "official_name": "Guinea Ecuatorial",
+        "capital": "Malabo",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 1430000,
+        "area": 28051.0,
+        "currencies": [
+            "XAF"
+        ],
+        "languages": [
+            "es",
+            "fr",
+            "pt"
+        ],
+        "borders": [
+            "CMR",
+            "GAB"
+        ],
+        "cca2": "GQ",
+        "cca3": "GNQ",
+        "latitude": 2,
+        "longitude": 10
+    },
+    {
+        "name": "Eritrea",
+        "official_name": "ኤርትራ Eritrea إرتريا",
+        "capital": "Asmara",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 6536000,
+        "area": 117600.0,
+        "currencies": [
+            "ERN"
+        ],
+        "languages": [
+            "ti",
+            "ar",
+            "en"
+        ],
+        "borders": [
+            "DJI",
+            "ETH",
+            "SDN"
+        ],
+        "cca2": "ER",
+        "cca3": "ERI",
+        "latitude": 15,
+        "longitude": 39
+    },
+    {
+        "name": "Estonia",
+        "official_name": "Eesti",
+        "capital": "Tallinn",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 1315819,
+        "area": 45227.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "et"
+        ],
+        "borders": [
+            "LVA",
+            "RUS"
+        ],
+        "cca2": "EE",
+        "cca3": "EST",
+        "latitude": 59,
+        "longitude": 26
+    },
+    {
+        "name": "Ethiopia",
+        "official_name": "ኢትዮጵያ",
+        "capital": "Addis Ababa",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 87952991,
+        "area": 1104300.0,
+        "currencies": [
+            "ETB"
+        ],
+        "languages": [
+            "am",
+            "aa",
+            "om",
+            "so",
+            "ti"
+        ],
+        "borders": [
+            "DJI",
+            "ERI",
+            "KEN",
+            "SOM",
+            "SSD",
+            "SDN"
+        ],
+        "cca2": "ET",
+        "cca3": "ETH",
+        "latitude": 8,
+        "longitude": 38
+    },
+    {
+        "name": "Falkland Islands",
+        "official_name": "Falkland Islands",
+        "capital": "Stanley",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 3000,
+        "area": 12173.0,
+        "currencies": [
+            "FKP"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "FK",
+        "cca3": "FLK",
+        "latitude": -51.75,
+        "longitude": -59
+    },
+    {
+        "name": "Faroe Islands",
+        "official_name": "Føroyar",
+        "capital": "Tórshavn",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 48605,
+        "area": 1393.0,
+        "currencies": [
+            "DKK"
+        ],
+        "languages": [
+            "fo"
+        ],
+        "borders": [],
+        "cca2": "FO",
+        "cca3": "FRO",
+        "latitude": 62,
+        "longitude": -7
+    },
+    {
+        "name": "Federated States of Micronesia",
+        "official_name": "Micronesia",
+        "capital": "Palikir",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 101351,
+        "area": 702.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "FM",
+        "cca3": "FSM",
+        "latitude": 6.91666666,
+        "longitude": 158.25
+    },
+    {
+        "name": "Fiji",
+        "official_name": "Fiji",
+        "capital": "Suva",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "population": 859178,
+        "area": 18272.0,
+        "currencies": [
+            "FJD"
+        ],
+        "languages": [
+            "en",
+            "fj",
+            "hi",
+            "ur"
+        ],
+        "borders": [],
+        "cca2": "FJ",
+        "cca3": "FJI",
+        "latitude": -18,
+        "longitude": 175
+    },
+    {
+        "name": "Finland",
+        "official_name": "Suomi",
+        "capital": "Helsinki",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 5470437,
+        "area": 338424.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fi",
+            "sv"
+        ],
+        "borders": [
+            "NOR",
+            "SWE",
+            "RUS"
+        ],
+        "cca2": "FI",
+        "cca3": "FIN",
+        "latitude": 64,
+        "longitude": 26
+    },
+    {
+        "name": "France",
+        "official_name": "France",
+        "capital": "Paris",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 66078000,
+        "area": 640679.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "AND",
+            "BEL",
+            "DEU",
+            "ITA",
+            "LUX",
+            "MCO",
+            "ESP",
+            "CHE"
+        ],
+        "cca2": "FR",
+        "cca3": "FRA",
+        "latitude": 46,
+        "longitude": 2
+    },
+    {
+        "name": "French Guiana",
+        "official_name": "Guyane française",
+        "capital": "Cayenne",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 237549,
+        "area": 0.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "BRA",
+            "SUR"
+        ],
+        "cca2": "GF",
+        "cca3": "GUF",
+        "latitude": 4,
+        "longitude": -53
+    },
+    {
+        "name": "French Polynesia",
+        "official_name": "Polynésie française",
+        "capital": "Papeetē",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 268270,
+        "area": 4167.0,
+        "currencies": [
+            "XPF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "PF",
+        "cca3": "PYF",
+        "latitude": -15,
+        "longitude": -140
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "official_name": "Territoire des Terres australes et antarctiques françaises",
+        "capital": "Port-aux-Français",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 140,
+        "area": 7747.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "TF",
+        "cca3": "ATF",
+        "latitude": -49.25,
+        "longitude": 69.167
+    },
+    {
+        "name": "Gabon",
+        "official_name": "Gabon",
+        "capital": "Libreville",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 1711000,
+        "area": 267668.0,
+        "currencies": [
+            "XAF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "CMR",
+            "COG",
+            "GNQ"
+        ],
+        "cca2": "GA",
+        "cca3": "GAB",
+        "latitude": -1,
+        "longitude": 11.75
+    },
+    {
+        "name": "Georgia",
+        "official_name": "საქართველო",
+        "capital": "Tbilisi",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 4490500,
+        "area": 69700.0,
+        "currencies": [
+            "GEL"
+        ],
+        "languages": [
+            "ka"
+        ],
+        "borders": [
+            "ARM",
+            "AZE",
+            "RUS",
+            "TUR"
+        ],
+        "cca2": "GE",
+        "cca3": "GEO",
+        "latitude": 42,
+        "longitude": 43.5
+    },
+    {
+        "name": "Germany",
+        "official_name": "Deutschland",
+        "capital": "Berlin",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 80783000,
+        "area": 357114.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "de",
+            "da",
+            "nds",
+            "dsb",
+            "frr",
+            "rom",
+            "stq",
+            "hsb"
+        ],
+        "borders": [
+            "AUT",
+            "BEL",
+            "CZE",
+            "DNK",
+            "FRA",
+            "LUX",
+            "NLD",
+            "POL",
+            "CHE"
+        ],
+        "cca2": "DE",
+        "cca3": "DEU",
+        "latitude": 51,
+        "longitude": 9
+    },
+    {
+        "name": "Ghana",
+        "official_name": "Ghana",
+        "capital": "Accra",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 27043093,
+        "area": 238533.0,
+        "currencies": [
+            "GHS"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "BFA",
+            "CIV",
+            "TGO"
+        ],
+        "cca2": "GH",
+        "cca3": "GHA",
+        "latitude": 8,
+        "longitude": -2
+    },
+    {
+        "name": "Gibraltar",
+        "official_name": "Gibraltar",
+        "capital": "Gibraltar",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 30001,
+        "area": 6.0,
+        "currencies": [
+            "GIP"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "ESP"
+        ],
+        "cca2": "GI",
+        "cca3": "GIB",
+        "latitude": 36.13333333,
+        "longitude": -5.35
+    },
+    {
+        "name": "Greece",
+        "official_name": "Ελλάδα",
+        "capital": "Athens",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 10992589,
+        "area": 131990.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "el"
+        ],
+        "borders": [
+            "ALB",
+            "BGR",
+            "TUR",
+            "MKD"
+        ],
+        "cca2": "GR",
+        "cca3": "GRC",
+        "latitude": 39,
+        "longitude": 22
+    },
+    {
+        "name": "Greenland",
+        "official_name": "Kalaallit Nunaat",
+        "capital": "Nuuk",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "population": 56295,
+        "area": 2166086.0,
+        "currencies": [
+            "DKK"
+        ],
+        "languages": [
+            "kl"
+        ],
+        "borders": [],
+        "cca2": "GL",
+        "cca3": "GRL",
+        "latitude": 72,
+        "longitude": -40
+    },
+    {
+        "name": "Grenada",
+        "official_name": "Grenada",
+        "capital": "St. George's",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 103328,
+        "area": 344.0,
+        "currencies": [
+            "XCD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "GD",
+        "cca3": "GRD",
+        "latitude": 12.11666666,
+        "longitude": -61.66666666
+    },
+    {
+        "name": "Guadeloupe",
+        "official_name": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 405739,
+        "area": 0.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "GP",
+        "cca3": "GLP",
+        "latitude": 16.25,
+        "longitude": -61.583333
+    },
+    {
+        "name": "Guam",
+        "official_name": "Guam",
+        "capital": "Hagåtña",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 159358,
+        "area": 549.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "en",
+            "ch",
+            "es"
+        ],
+        "borders": [],
+        "cca2": "GU",
+        "cca3": "GUM",
+        "latitude": 13.46666666,
+        "longitude": 144.78333333
+    },
+    {
+        "name": "Guatemala",
+        "official_name": "Guatemala",
+        "capital": "Guatemala City",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 15806675,
+        "area": 108889.0,
+        "currencies": [
+            "GTQ"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "BLZ",
+            "SLV",
+            "HND",
+            "MEX"
+        ],
+        "cca2": "GT",
+        "cca3": "GTM",
+        "latitude": 15.5,
+        "longitude": -90.25
+    },
+    {
+        "name": "Guernsey",
+        "official_name": "Guernsey",
+        "capital": "St. Peter Port",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 63085,
+        "area": 78.0,
+        "currencies": [
+            "GBP"
+        ],
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "GG",
+        "cca3": "GGY",
+        "latitude": 49.46666666,
+        "longitude": -2.58333333
+    },
+    {
+        "name": "Guinea",
+        "official_name": "Guinée",
+        "capital": "Conakry",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 10628972,
+        "area": 245857.0,
+        "currencies": [
+            "GNF"
+        ],
+        "languages": [
+            "fr",
+            "ff"
+        ],
+        "borders": [
+            "CIV",
+            "GNB",
+            "LBR",
+            "MLI",
+            "SEN",
+            "SLE"
+        ],
+        "cca2": "GN",
+        "cca3": "GIN",
+        "latitude": 11,
+        "longitude": -10
+    },
+    {
+        "name": "Guinea-Bissau",
+        "official_name": "Guiné-Bissau",
+        "capital": "Bissau",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 1746000,
+        "area": 36125.0,
+        "currencies": [
+            "XOF"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "borders": [
+            "GIN",
+            "SEN"
+        ],
+        "cca2": "GW",
+        "cca3": "GNB",
+        "latitude": 12,
+        "longitude": -15
+    },
+    {
+        "name": "Guyana",
+        "official_name": "Guyana",
+        "capital": "Georgetown",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 784894,
+        "area": 214969.0,
+        "currencies": [
+            "GYD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "BRA",
+            "SUR",
+            "VEN"
+        ],
+        "cca2": "GY",
+        "cca3": "GUY",
+        "latitude": 5,
+        "longitude": -59
+    },
+    {
+        "name": "Haiti",
+        "official_name": "Haïti",
+        "capital": "Port-au-Prince",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 10745665,
+        "area": 27750.0,
+        "currencies": [
+            "HTG",
+            "USD"
+        ],
+        "languages": [
+            "fr",
+            "ht"
+        ],
+        "borders": [
+            "DOM"
+        ],
+        "cca2": "HT",
+        "cca3": "HTI",
+        "latitude": 19,
+        "longitude": -72.41666666
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "official_name": "Heard Island and McDonald Islands",
+        "capital": "N/A",
+        "region": "",
+        "subregion": "",
+        "population": 0,
+        "area": 412.0,
+        "currencies": [
+            "AUD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "HM",
+        "cca3": "HMD",
+        "latitude": -53.1,
+        "longitude": 72.51666666
+    },
+    {
+        "name": "Holy See (Vatican City State)",
+        "official_name": "Stato della Città del Vaticano",
+        "capital": "Vatican City State",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 453,
+        "area": 0.49,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "it"
+        ],
+        "borders": [
+            "ITA"
+        ],
+        "cca2": "VA",
+        "cca3": "VAT",
+        "latitude": 41.90244,
+        "longitude": 12.45389
+    },
+    {
+        "name": "Honduras",
+        "official_name": "Honduras",
+        "capital": "Tegucigalpa",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 8725111,
+        "area": 112492.0,
+        "currencies": [
+            "HNL"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "GTM",
+            "SLV",
+            "NIC"
+        ],
+        "cca2": "HN",
+        "cca3": "HND",
+        "latitude": 15,
+        "longitude": -86.5
+    },
+    {
+        "name": "Hong Kong",
+        "official_name": "香港",
+        "capital": "City of Victoria",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 7234800,
+        "area": 1104.0,
+        "currencies": [
+            "HKD"
+        ],
+        "languages": [
+            "en",
+            "zh"
+        ],
+        "borders": [
+            "CHN"
+        ],
+        "cca2": "HK",
+        "cca3": "HKG",
+        "latitude": 22.25,
+        "longitude": 114.16666666
+    },
+    {
+        "name": "Hungary",
+        "official_name": "Magyarorszag",
+        "capital": "Budapest",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 9678000,
+        "area": 93030.0,
+        "currencies": [
+            "HUF"
+        ],
+        "languages": [
+            "hu"
+        ],
+        "borders": [
+            "AUT",
+            "HRV",
+            "ROU",
+            "SRB",
+            "SVK",
+            "SVN",
+            "UKR"
+        ],
+        "cca2": "HU",
+        "cca3": "HUN",
+        "latitude": 47,
+        "longitude": 20
+    },
+    {
+        "name": "Iceland",
+        "official_name": "Ísland",
+        "capital": "Reykjavik",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 328170,
+        "area": 103000.0,
+        "currencies": [
+            "ISK"
+        ],
+        "languages": [
+            "is"
+        ],
+        "borders": [],
+        "cca2": "IS",
+        "cca3": "ISL",
+        "latitude": 65,
+        "longitude": -18
+    },
+    {
+        "name": "India",
+        "official_name": "भारत",
+        "capital": "New Delhi",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 1263930000,
+        "area": 3287590.0,
+        "currencies": [
+            "INR"
+        ],
+        "languages": [
+            "hi",
+            "en"
+        ],
+        "borders": [
+            "AFG",
+            "BGD",
+            "BTN",
+            "MMR",
+            "CHN",
+            "NPL",
+            "PAK",
+            "LKA"
+        ],
+        "cca2": "IN",
+        "cca3": "IND",
+        "latitude": 20,
+        "longitude": 77
+    },
+    {
+        "name": "Indonesia",
+        "official_name": "Indonesia",
+        "capital": "Jakarta",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 252164800,
+        "area": 1904569.0,
+        "currencies": [
+            "IDR"
+        ],
+        "languages": [
+            "id"
+        ],
+        "borders": [
+            "TLS",
+            "MYS",
+            "PNG"
+        ],
+        "cca2": "ID",
+        "cca3": "IDN",
+        "latitude": -5,
+        "longitude": 120
+    },
+    {
+        "name": "Iran",
+        "official_name": "ایران",
+        "capital": "Tehran",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 77966400,
+        "area": 1648195.0,
+        "currencies": [
+            "IRR"
+        ],
+        "languages": [
+            "fa"
+        ],
+        "borders": [
+            "AFG",
+            "ARM",
+            "AZE",
+            "IRQ",
+            "PAK",
+            "TUR",
+            "TKM"
+        ],
+        "cca2": "IR",
+        "cca3": "IRN",
+        "latitude": 32,
+        "longitude": 53
+    },
+    {
+        "name": "Iraq",
+        "official_name": "العراق",
+        "capital": "Baghdad",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 36004552,
+        "area": 438317.0,
+        "currencies": [
+            "IQD"
+        ],
+        "languages": [
+            "ar",
+            "ku"
+        ],
+        "borders": [
+            "IRN",
+            "JOR",
+            "KWT",
+            "SAU",
+            "SYR",
+            "TUR"
+        ],
+        "cca2": "IQ",
+        "cca3": "IRQ",
+        "latitude": 33,
+        "longitude": 44
+    },
+    {
+        "name": "Ireland",
+        "official_name": "Éire / Ireland",
+        "capital": "Dublin",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 6378000,
+        "area": 70273.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "ga",
+            "en"
+        ],
+        "borders": [
+            "GBR"
+        ],
+        "cca2": "IE",
+        "cca3": "IRL",
+        "latitude": 53,
+        "longitude": -8
+    },
+    {
+        "name": "Isle of Man",
+        "official_name": "Isle of Man",
+        "capital": "Douglas",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 84497,
+        "area": 572.0,
+        "currencies": [
+            "GBP"
+        ],
+        "languages": [
+            "en",
+            "gv"
+        ],
+        "borders": [],
+        "cca2": "IM",
+        "cca3": "IMN",
+        "latitude": 54.25,
+        "longitude": -4.5
+    },
+    {
+        "name": "Israel",
+        "official_name": "יִשְׂרָאֵל",
+        "capital": "Jerusalem",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 8268400,
+        "area": 20770.0,
+        "currencies": [
+            "ILS"
+        ],
+        "languages": [
+            "he",
+            "ar"
+        ],
+        "borders": [
+            "EGY",
+            "JOR",
+            "LBN",
+            "SYR"
+        ],
+        "cca2": "IL",
+        "cca3": "ISR",
+        "latitude": 31.5,
+        "longitude": 34.75
+    },
+    {
+        "name": "Italy",
+        "official_name": "Italia",
+        "capital": "Rome",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 60769102,
+        "area": 301336.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "it"
+        ],
+        "borders": [
+            "AUT",
+            "FRA",
+            "SMR",
+            "SVN",
+            "CHE",
+            "VAT"
+        ],
+        "cca2": "IT",
+        "cca3": "ITA",
+        "latitude": 42.83333333,
+        "longitude": 12.83333333
+    },
+    {
+        "name": "Ivory Coast",
+        "official_name": "Côte d'Ivoire",
+        "capital": "Yamoussoukro",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 23821000,
+        "area": 322463.0,
+        "currencies": [
+            "XOF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "BFA",
+            "GHA",
+            "GIN",
+            "LBR",
+            "MLI"
+        ],
+        "cca2": "CI",
+        "cca3": "CIV",
+        "latitude": 8,
+        "longitude": -5
+    },
+    {
+        "name": "Jamaica",
+        "official_name": "Jumieka",
+        "capital": "Kingston",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 2726667,
+        "area": 10991.0,
+        "currencies": [
+            "JMD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "JM",
+        "cca3": "JAM",
+        "latitude": 17.971389,
+        "longitude": -76.793056
+    },
+    {
+        "name": "Japan",
+        "official_name": "日本",
+        "capital": "Tokyo",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 127080000,
+        "area": 377930.0,
+        "currencies": [
+            "JPY"
+        ],
+        "languages": [
+            "ja"
+        ],
+        "borders": [],
+        "cca2": "JP",
+        "cca3": "JPN",
+        "latitude": 36,
+        "longitude": 138
+    },
+    {
+        "name": "Jersey",
+        "official_name": "Jersey",
+        "capital": "Saint Helier",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 99000,
+        "area": 116.0,
+        "currencies": [
+            "GBP"
+        ],
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "JE",
+        "cca3": "JEY",
+        "latitude": 49.25,
+        "longitude": -2.16666666
+    },
+    {
+        "name": "Jordan",
+        "official_name": "الأردن",
+        "capital": "Amman",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 6666960,
+        "area": 89342.0,
+        "currencies": [
+            "JOD"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "IRQ",
+            "ISR",
+            "SAU",
+            "SYR"
+        ],
+        "cca2": "JO",
+        "cca3": "JOR",
+        "latitude": 31,
+        "longitude": 36
+    },
+    {
+        "name": "Kazakhstan",
+        "official_name": "Қазақстан",
+        "capital": "Nur-Sultan",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "population": 17377800,
+        "area": 2724900.0,
+        "currencies": [
+            "KZT"
+        ],
+        "languages": [
+            "kk",
+            "ru"
+        ],
+        "borders": [
+            "CHN",
+            "KGZ",
+            "RUS",
+            "TKM",
+            "UZB"
+        ],
+        "cca2": "KZ",
+        "cca3": "KAZ",
+        "latitude": 48,
+        "longitude": 68
+    },
+    {
+        "name": "Kenya",
+        "official_name": "Kenya",
+        "capital": "Nairobi",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 41800000,
+        "area": 580367.0,
+        "currencies": [
+            "KES"
+        ],
+        "languages": [
+            "en",
+            "sw"
+        ],
+        "borders": [
+            "ETH",
+            "SOM",
+            "SSD",
+            "TZA",
+            "UGA"
+        ],
+        "cca2": "KE",
+        "cca3": "KEN",
+        "latitude": 1,
+        "longitude": 38
+    },
+    {
+        "name": "Kiribati",
+        "official_name": "Kiribati",
+        "capital": "South Tarawa",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 106461,
+        "area": 811.0,
+        "currencies": [
+            "AUD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "KI",
+        "cca3": "KIR",
+        "latitude": 1.41666666,
+        "longitude": 173
+    },
+    {
+        "name": "Kosovo",
+        "official_name": "Косово",
+        "capital": "Pristina",
+        "region": "Europe",
+        "subregion": "Southeastern Europe",
+        "population": 1585566,
+        "area": 10887.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "sq",
+            "sr"
+        ],
+        "borders": [
+            "ALB",
+            "MNE",
+            "MKD",
+            "SRB"
+        ],
+        "cca2": "XK",
+        "cca3": "XKX",
+        "latitude": 42.583333,
+        "longitude": 21.0
+    },
+    {
+        "name": "Kuwait",
+        "official_name": "الكويت",
+        "capital": "Kuwait City",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 3268431,
+        "area": 17818.0,
+        "currencies": [
+            "KWD"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "IRN",
+            "SAU"
+        ],
+        "cca2": "KW",
+        "cca3": "KWT",
+        "latitude": 29.5,
+        "longitude": 45.75
+    },
+    {
+        "name": "Kyrgyzstan",
+        "official_name": "Кыргызстан",
+        "capital": "Bishkek",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "population": 5776570,
+        "area": 199951.0,
+        "currencies": [
+            "KGS"
+        ],
+        "languages": [
+            "ky",
+            "ru"
+        ],
+        "borders": [
+            "CHN",
+            "KAZ",
+            "TJK",
+            "UZB"
+        ],
+        "cca2": "KG",
+        "cca3": "KGZ",
+        "latitude": 41,
+        "longitude": 75
+    },
+    {
+        "name": "Laos",
+        "official_name": "ສປປລາວ",
+        "capital": "Vientiane",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 6693300,
+        "area": 236800.0,
+        "currencies": [
+            "LAK"
+        ],
+        "languages": [
+            "lo"
+        ],
+        "borders": [
+            "MMR",
+            "KHM",
+            "CHN",
+            "THA",
+            "VNM"
+        ],
+        "cca2": "LA",
+        "cca3": "LAO",
+        "latitude": 18,
+        "longitude": 105
+    },
+    {
+        "name": "Latvia",
+        "official_name": "Latvija",
+        "capital": "Riga",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 1991800,
+        "area": 64559.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "lv"
+        ],
+        "borders": [
+            "BLR",
+            "EST",
+            "LTU",
+            "RUS"
+        ],
+        "cca2": "LV",
+        "cca3": "LVA",
+        "latitude": 57,
+        "longitude": 25
+    },
+    {
+        "name": "Lebanon",
+        "official_name": "لبنان",
+        "capital": "Beirut",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 4104000,
+        "area": 10452.0,
+        "currencies": [
+            "LBP"
+        ],
+        "languages": [
+            "ar",
+            "fr"
+        ],
+        "borders": [
+            "ISR",
+            "SYR"
+        ],
+        "cca2": "LB",
+        "cca3": "LBN",
+        "latitude": 33.83333333,
+        "longitude": 35.83333333
+    },
+    {
+        "name": "Lesotho",
+        "official_name": "Lesotho",
+        "capital": "Maseru",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 2098000,
+        "area": 30355.0,
+        "currencies": [
+            "LSL",
+            "ZAR"
+        ],
+        "languages": [
+            "en",
+            "st"
+        ],
+        "borders": [
+            "ZAF"
+        ],
+        "cca2": "LS",
+        "cca3": "LSO",
+        "latitude": -29.5,
+        "longitude": 28.5
+    },
+    {
+        "name": "Liberia",
+        "official_name": "Liberia",
+        "capital": "Monrovia",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 4397000,
+        "area": 111369.0,
+        "currencies": [
+            "LRD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "GIN",
+            "CIV",
+            "SLE"
+        ],
+        "cca2": "LR",
+        "cca3": "LBR",
+        "latitude": 6.5,
+        "longitude": -9.5
+    },
+    {
+        "name": "Libya",
+        "official_name": "‏ليبيا",
+        "capital": "Tripoli",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 6253000,
+        "area": 1759540.0,
+        "currencies": [
+            "LYD"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "DZA",
+            "TCD",
+            "EGY",
+            "NER",
+            "SDN",
+            "TUN"
+        ],
+        "cca2": "LY",
+        "cca3": "LBY",
+        "latitude": 25,
+        "longitude": 17
+    },
+    {
+        "name": "Liechtenstein",
+        "official_name": "Liechtenstein",
+        "capital": "Vaduz",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 37132,
+        "area": 160.0,
+        "currencies": [
+            "CHF"
+        ],
+        "languages": [
+            "de"
+        ],
+        "borders": [
+            "AUT",
+            "CHE"
+        ],
+        "cca2": "LI",
+        "cca3": "LIE",
+        "latitude": 47.26666666,
+        "longitude": 9.53333333
+    },
+    {
+        "name": "Lithuania",
+        "official_name": "Lietuva",
+        "capital": "Vilnius",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 2927310,
+        "area": 65300.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "lt"
+        ],
+        "borders": [
+            "BLR",
+            "LVA",
+            "POL",
+            "RUS"
+        ],
+        "cca2": "LT",
+        "cca3": "LTU",
+        "latitude": 56,
+        "longitude": 24
+    },
+    {
+        "name": "Luxembourg",
+        "official_name": "Luxembourg",
+        "capital": "Luxembourg",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 549700,
+        "area": 2586.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr",
+            "de",
+            "lb"
+        ],
+        "borders": [
+            "BEL",
+            "FRA",
+            "DEU"
+        ],
+        "cca2": "LU",
+        "cca3": "LUX",
+        "latitude": 49.75,
+        "longitude": 6.16666666
+    },
+    {
+        "name": "Macau",
+        "official_name": "澳門",
+        "capital": "N/A",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 631000,
+        "area": 30.0,
+        "currencies": [
+            "MOP"
+        ],
+        "languages": [
+            "zh",
+            "pt"
+        ],
+        "borders": [
+            "CHN"
+        ],
+        "cca2": "MO",
+        "cca3": "MAC",
+        "latitude": 22.16666666,
+        "longitude": 113.55
+    },
+    {
+        "name": "Madagascar",
+        "official_name": "Madagasikara",
+        "capital": "Antananarivo",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 21842167,
+        "area": 587041.0,
+        "currencies": [
+            "MGA"
+        ],
+        "languages": [
+            "fr",
+            "mg"
+        ],
+        "borders": [],
+        "cca2": "MG",
+        "cca3": "MDG",
+        "latitude": -20,
+        "longitude": 47
+    },
+    {
+        "name": "Malawi",
+        "official_name": "Malawi",
+        "capital": "Lilongwe",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 15805239,
+        "area": 118484.0,
+        "currencies": [
+            "MWK"
+        ],
+        "languages": [
+            "en",
+            "ny"
+        ],
+        "borders": [
+            "MOZ",
+            "TZA",
+            "ZMB"
+        ],
+        "cca2": "MW",
+        "cca3": "MWI",
+        "latitude": -13.5,
+        "longitude": 34
+    },
+    {
+        "name": "Malaysia",
+        "official_name": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 30430500,
+        "area": 330803.0,
+        "currencies": [
+            "MYR"
+        ],
+        "languages": [
+            "ms",
+            "en"
+        ],
+        "borders": [
+            "BRN",
+            "IDN",
+            "THA"
+        ],
+        "cca2": "MY",
+        "cca3": "MYS",
+        "latitude": 2.5,
+        "longitude": 112.5
+    },
+    {
+        "name": "Maldives",
+        "official_name": "ދިވެހިރާއްޖެ",
+        "capital": "Malé",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 341256,
+        "area": 300.0,
+        "currencies": [
+            "MVR"
+        ],
+        "languages": [
+            "dv"
+        ],
+        "borders": [],
+        "cca2": "MV",
+        "cca3": "MDV",
+        "latitude": 3.25,
+        "longitude": 73
+    },
+    {
+        "name": "Mali",
+        "official_name": "Mali",
+        "capital": "Bamako",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 15768000,
+        "area": 1240192.0,
+        "currencies": [
+            "XOF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "DZA",
+            "BFA",
+            "GIN",
+            "CIV",
+            "MRT",
+            "NER",
+            "SEN"
+        ],
+        "cca2": "ML",
+        "cca3": "MLI",
+        "latitude": 17,
+        "longitude": -4
+    },
+    {
+        "name": "Malta",
+        "official_name": "Malta",
+        "capital": "Valletta",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 416055,
+        "area": 316.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "mt",
+            "en"
+        ],
+        "borders": [],
+        "cca2": "MT",
+        "cca3": "MLT",
+        "latitude": 35.83333333,
+        "longitude": 14.58333333
+    },
+    {
+        "name": "Marshall Islands",
+        "official_name": "M̧ajeļ",
+        "capital": "Majuro",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 56086,
+        "area": 181.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "en",
+            "mh"
+        ],
+        "borders": [],
+        "cca2": "MH",
+        "cca3": "MHL",
+        "latitude": 9,
+        "longitude": 168
+    },
+    {
+        "name": "Martinique",
+        "official_name": "Martinique",
+        "capital": "Fort-de-France",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 386486,
+        "area": 0.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "MQ",
+        "cca3": "MTQ",
+        "latitude": 14.666667,
+        "longitude": -61
+    },
+    {
+        "name": "Mauritania",
+        "official_name": "موريتانيا",
+        "capital": "Nouakchott",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 3545620,
+        "area": 1030700.0,
+        "currencies": [
+            "MRO"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "DZA",
+            "MLI",
+            "SEN",
+            "ESH"
+        ],
+        "cca2": "MR",
+        "cca3": "MRT",
+        "latitude": 20,
+        "longitude": -12
+    },
+    {
+        "name": "Mauritius",
+        "official_name": "Maurice",
+        "capital": "Port Louis",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 1261208,
+        "area": 2040.0,
+        "currencies": [
+            "MUR"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "MU",
+        "cca3": "MUS",
+        "latitude": -20.28333333,
+        "longitude": 57.55
+    },
+    {
+        "name": "Mayotte",
+        "official_name": "Mayotte",
+        "capital": "Mamoudzou",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 212645,
+        "area": 0.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "YT",
+        "cca3": "MYT",
+        "latitude": -12.83333333,
+        "longitude": 45.16666666
+    },
+    {
+        "name": "Mexico",
+        "official_name": "México",
+        "capital": "Mexico City",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 119713203,
+        "area": 1964375.0,
+        "currencies": [
+            "MXN"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "BLZ",
+            "GTM",
+            "USA"
+        ],
+        "cca2": "MX",
+        "cca3": "MEX",
+        "latitude": 23,
+        "longitude": -102
+    },
+    {
+        "name": "Moldova",
+        "official_name": "Moldova",
+        "capital": "Chișinău",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 3557600,
+        "area": 33846.0,
+        "currencies": [
+            "MDL"
+        ],
+        "languages": [
+            "ro"
+        ],
+        "borders": [
+            "ROU",
+            "UKR"
+        ],
+        "cca2": "MD",
+        "cca3": "MDA",
+        "latitude": 47,
+        "longitude": 29
+    },
+    {
+        "name": "Monaco",
+        "official_name": "Monaco",
+        "capital": "Monaco",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 36950,
+        "area": 2.02,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "FRA"
+        ],
+        "cca2": "MC",
+        "cca3": "MCO",
+        "latitude": 43.73333333,
+        "longitude": 7.4
+    },
+    {
+        "name": "Mongolia",
+        "official_name": "Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ",
+        "capital": "Ulaanbaatar",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 2987733,
+        "area": 1564110.0,
+        "currencies": [
+            "MNT"
+        ],
+        "languages": [
+            "mn"
+        ],
+        "borders": [
+            "CHN",
+            "RUS"
+        ],
+        "cca2": "MN",
+        "cca3": "MNG",
+        "latitude": 46,
+        "longitude": 105
+    },
+    {
+        "name": "Montenegro",
+        "official_name": "Crna Gora",
+        "capital": "Podgorica",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 621873,
+        "area": 13812.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "cnr",
+            "sr",
+            "bs",
+            "sq",
+            "hr",
+            "rom"
+        ],
+        "borders": [
+            "SRB",
+            "ALB",
+            "XKX",
+            "BIH",
+            "HRV"
+        ],
+        "cca2": "ME",
+        "cca3": "MNE",
+        "latitude": 42.7044223,
+        "longitude": 19.3957785
+    },
+    {
+        "name": "Montserrat",
+        "official_name": "Montserrat",
+        "capital": "Plymouth",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 4922,
+        "area": 102.0,
+        "currencies": [
+            "XCD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "MS",
+        "cca3": "MSR",
+        "latitude": 16.75,
+        "longitude": -62.2
+    },
+    {
+        "name": "Morocco",
+        "official_name": "Maroc / ⵍⵎⵖⵔⵉⴱ / المغرب",
+        "capital": "Rabat",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 33465000,
+        "area": 446550.0,
+        "currencies": [
+            "MAD"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "DZA",
+            "ESH",
+            "ESP"
+        ],
+        "cca2": "MA",
+        "cca3": "MAR",
+        "latitude": 32,
+        "longitude": -5
+    },
+    {
+        "name": "Mozambique",
+        "official_name": "Moçambique",
+        "capital": "Maputo",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 25041922,
+        "area": 801590.0,
+        "currencies": [
+            "MZN"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "borders": [
+            "MWI",
+            "ZAF",
+            "SWZ",
+            "TZA",
+            "ZMB",
+            "ZWE"
+        ],
+        "cca2": "MZ",
+        "cca3": "MOZ",
+        "latitude": -18.25,
+        "longitude": 35
+    },
+    {
+        "name": "Namibia",
+        "official_name": "Namibia",
+        "capital": "Windhoek",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 2113077,
+        "area": 825615.0,
+        "currencies": [
+            "NAD",
+            "ZAR"
+        ],
+        "languages": [
+            "en",
+            "af"
+        ],
+        "borders": [
+            "AGO",
+            "BWA",
+            "ZAF",
+            "ZMB"
+        ],
+        "cca2": "NA",
+        "cca3": "NAM",
+        "latitude": -22,
+        "longitude": 17
+    },
+    {
+        "name": "Nauru",
+        "official_name": "Nauru",
+        "capital": "Yaren",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 10084,
+        "area": 21.0,
+        "currencies": [
+            "AUD"
+        ],
+        "languages": [
+            "en",
+            "na"
+        ],
+        "borders": [],
+        "cca2": "NR",
+        "cca3": "NRU",
+        "latitude": -0.53333333,
+        "longitude": 166.91666666
+    },
+    {
+        "name": "Nepal",
+        "official_name": "नेपाल",
+        "capital": "Kathmandu",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 27646053,
+        "area": 147181.0,
+        "currencies": [
+            "NPR"
+        ],
+        "languages": [
+            "ne"
+        ],
+        "borders": [
+            "CHN",
+            "IND"
+        ],
+        "cca2": "NP",
+        "cca3": "NPL",
+        "latitude": 28,
+        "longitude": 84
+    },
+    {
+        "name": "Netherlands",
+        "official_name": "Nederland",
+        "capital": "Amsterdam",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 16881000,
+        "area": 41850.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "nl",
+            "fy",
+            "li",
+            "nds",
+            "rom",
+            "yi"
+        ],
+        "borders": [
+            "BEL",
+            "DEU"
+        ],
+        "cca2": "NL",
+        "cca3": "NLD",
+        "latitude": 52.5,
+        "longitude": 5.75
+    },
+    {
+        "name": "New Caledonia",
+        "official_name": "Nouvelle-Calédonie",
+        "capital": "Nouméa",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "population": 268767,
+        "area": 18575.0,
+        "currencies": [
+            "XPF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "NC",
+        "cca3": "NCL",
+        "latitude": -21.5,
+        "longitude": 165.5
+    },
+    {
+        "name": "New Zealand",
+        "official_name": "New Zealand / Aotearoa",
+        "capital": "Wellington",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 4547900,
+        "area": 270467.0,
+        "currencies": [
+            "NZD"
+        ],
+        "languages": [
+            "en",
+            "mi"
+        ],
+        "borders": [],
+        "cca2": "NZ",
+        "cca3": "NZL",
+        "latitude": -41,
+        "longitude": 174
+    },
+    {
+        "name": "Nicaragua",
+        "official_name": "Nicaragua",
+        "capital": "Managua",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 6134270,
+        "area": 130373.0,
+        "currencies": [
+            "NIO"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "CRI",
+            "HND"
+        ],
+        "cca2": "NI",
+        "cca3": "NIC",
+        "latitude": 13,
+        "longitude": -85
+    },
+    {
+        "name": "Niger",
+        "official_name": "Niger",
+        "capital": "Niamey",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 17138707,
+        "area": 1267000.0,
+        "currencies": [
+            "XOF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "DZA",
+            "BEN",
+            "BFA",
+            "TCD",
+            "LBY",
+            "MLI",
+            "NGA"
+        ],
+        "cca2": "NE",
+        "cca3": "NER",
+        "latitude": 16,
+        "longitude": 8
+    },
+    {
+        "name": "Nigeria",
+        "official_name": "Nigeria",
+        "capital": "Abuja",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 178517000,
+        "area": 923768.0,
+        "currencies": [
+            "NGN"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "BEN",
+            "CMR",
+            "TCD",
+            "NER"
+        ],
+        "cca2": "NG",
+        "cca3": "NGA",
+        "latitude": 10,
+        "longitude": 8
+    },
+    {
+        "name": "Niue",
+        "official_name": "Niuē",
+        "capital": "Alofi",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 1613,
+        "area": 260.0,
+        "currencies": [
+            "NZD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "NU",
+        "cca3": "NIU",
+        "latitude": -19.03333333,
+        "longitude": -169.86666666
+    },
+    {
+        "name": "Norfolk Island",
+        "official_name": "Norfolk Island",
+        "capital": "Kingston",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "population": 2302,
+        "area": 36.0,
+        "currencies": [
+            "AUD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "NF",
+        "cca3": "NFK",
+        "latitude": -29.03333333,
+        "longitude": 167.95
+    },
+    {
+        "name": "North Korea",
+        "official_name": "조선민주주의인민공화국",
+        "capital": "Pyongyang",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 25027000,
+        "area": 120538.0,
+        "currencies": [
+            "KPW"
+        ],
+        "languages": [
+            "ko"
+        ],
+        "borders": [
+            "CHN",
+            "KOR",
+            "RUS"
+        ],
+        "cca2": "KP",
+        "cca3": "PRK",
+        "latitude": 40,
+        "longitude": 127
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "official_name": "Northern Mariana Islands",
+        "capital": "Saipan",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 53883,
+        "area": 464.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "en",
+            "ch"
+        ],
+        "borders": [],
+        "cca2": "MP",
+        "cca3": "MNP",
+        "latitude": 15.2,
+        "longitude": 145.75
+    },
+    {
+        "name": "Norway",
+        "official_name": "Norge",
+        "capital": "Oslo",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 5156450,
+        "area": 323802.0,
+        "currencies": [
+            "NOK"
+        ],
+        "languages": [
+            "no",
+            "nb",
+            "nn"
+        ],
+        "borders": [
+            "FIN",
+            "SWE",
+            "RUS"
+        ],
+        "cca2": "NO",
+        "cca3": "NOR",
+        "latitude": 62,
+        "longitude": 10
+    },
+    {
+        "name": "Oman",
+        "official_name": "عمان",
+        "capital": "Muscat",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 4089076,
+        "area": 309500.0,
+        "currencies": [
+            "OMR"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "SAU",
+            "ARE",
+            "YEM"
+        ],
+        "cca2": "OM",
+        "cca3": "OMN",
+        "latitude": 21,
+        "longitude": 57
+    },
+    {
+        "name": "Pakistan",
+        "official_name": "Pakistan",
+        "capital": "Islamabad",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 188410000,
+        "area": 881912.0,
+        "currencies": [
+            "PKR"
+        ],
+        "languages": [
+            "en",
+            "ur"
+        ],
+        "borders": [
+            "AFG",
+            "CHN",
+            "IND",
+            "IRN"
+        ],
+        "cca2": "PK",
+        "cca3": "PAK",
+        "latitude": 30,
+        "longitude": 70
+    },
+    {
+        "name": "Palau",
+        "official_name": "Palau",
+        "capital": "Ngerulmud",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 20901,
+        "area": 459.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "PW",
+        "cca3": "PLW",
+        "latitude": 7.5,
+        "longitude": 134.5
+    },
+    {
+        "name": "Palestine, State of",
+        "official_name": "Palestine, State of",
+        "capital": "Jerusalem",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "PS",
+        "cca3": "PSE",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Panama",
+        "official_name": "Panamá",
+        "capital": "Panama City",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 3713312,
+        "area": 75417.0,
+        "currencies": [
+            "PAB",
+            "USD"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "COL",
+            "CRI"
+        ],
+        "cca2": "PA",
+        "cca3": "PAN",
+        "latitude": 9,
+        "longitude": -80
+    },
+    {
+        "name": "Papua New Guinea",
+        "official_name": "Papua Niugini",
+        "capital": "Port Moresby",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "population": 7398500,
+        "area": 462840.0,
+        "currencies": [
+            "PGK"
+        ],
+        "languages": [
+            "en",
+            "ho",
+            "tpi"
+        ],
+        "borders": [
+            "IDN"
+        ],
+        "cca2": "PG",
+        "cca3": "PNG",
+        "latitude": -6,
+        "longitude": 147
+    },
+    {
+        "name": "Paraguay",
+        "official_name": "Paraguay",
+        "capital": "Asunción",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 6893727,
+        "area": 406752.0,
+        "currencies": [
+            "PYG"
+        ],
+        "languages": [
+            "es",
+            "gn"
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "BRA"
+        ],
+        "cca2": "PY",
+        "cca3": "PRY",
+        "latitude": -23,
+        "longitude": -58
+    },
+    {
+        "name": "Peru",
+        "official_name": "Perú",
+        "capital": "Lima",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 30814175,
+        "area": 1285216.0,
+        "currencies": [
+            "PEN"
+        ],
+        "languages": [
+            "es",
+            "qu",
+            "ay"
+        ],
+        "borders": [
+            "BOL",
+            "BRA",
+            "CHL",
+            "COL",
+            "ECU"
+        ],
+        "cca2": "PE",
+        "cca3": "PER",
+        "latitude": -10,
+        "longitude": -76
+    },
+    {
+        "name": "Philippines",
+        "official_name": "Pilipinas / Philippines",
+        "capital": "Manila",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 100697400,
+        "area": 342353.0,
+        "currencies": [
+            "PHP"
+        ],
+        "languages": [
+            "en",
+            "fil"
+        ],
+        "borders": [],
+        "cca2": "PH",
+        "cca3": "PHL",
+        "latitude": 13,
+        "longitude": 122
+    },
+    {
+        "name": "Pitcairn Islands",
+        "official_name": "Pitcairn Islands",
+        "capital": "Adamstown",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 56,
+        "area": 47.0,
+        "currencies": [
+            "NZD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "PN",
+        "cca3": "PCN",
+        "latitude": -25.06666666,
+        "longitude": -130.1
+    },
+    {
+        "name": "Poland",
+        "official_name": "Polska",
+        "capital": "Warsaw",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 38496000,
+        "area": 312679.0,
+        "currencies": [
+            "PLN"
+        ],
+        "languages": [
+            "pl"
+        ],
+        "borders": [
+            "BLR",
+            "CZE",
+            "DEU",
+            "LTU",
+            "RUS",
+            "SVK",
+            "UKR"
+        ],
+        "cca2": "PL",
+        "cca3": "POL",
+        "latitude": 52,
+        "longitude": 20
+    },
+    {
+        "name": "Portugal",
+        "official_name": "Portugal",
+        "capital": "Lisbon",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 10477800,
+        "area": 92090.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "borders": [
+            "ESP"
+        ],
+        "cca2": "PT",
+        "cca3": "PRT",
+        "latitude": 39.5,
+        "longitude": -8
+    },
+    {
+        "name": "Puerto Rico",
+        "official_name": "Puerto Rico",
+        "capital": "San Juan",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 3615086,
+        "area": 8870.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "es",
+            "en"
+        ],
+        "borders": [],
+        "cca2": "PR",
+        "cca3": "PRI",
+        "latitude": 18.25,
+        "longitude": -66.5
+    },
+    {
+        "name": "Qatar",
+        "official_name": "قطر",
+        "capital": "Doha",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 2269672,
+        "area": 11586.0,
+        "currencies": [
+            "QAR"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "SAU"
+        ],
+        "cca2": "QA",
+        "cca3": "QAT",
+        "latitude": 25.5,
+        "longitude": 51.25
+    },
+    {
+        "name": "Republic of Macedonia",
+        "official_name": "Македонија",
+        "capital": "Skopje",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 2058539,
+        "area": 25713.0,
+        "currencies": [
+            "MKD"
+        ],
+        "languages": [
+            "mk",
+            "sq"
+        ],
+        "borders": [
+            "ALB",
+            "BGR",
+            "GRC",
+            "SRB",
+            "XKX"
+        ],
+        "cca2": "MK",
+        "cca3": "MKD",
+        "latitude": 41.83333333,
+        "longitude": 22
+    },
+    {
+        "name": "Republic of the Congo",
+        "official_name": "République du Congo",
+        "capital": "Brazzaville",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 4559000,
+        "area": 342000.0,
+        "currencies": [
+            "XAF"
+        ],
+        "languages": [
+            "fr",
+            "ln"
+        ],
+        "borders": [
+            "AGO",
+            "CMR",
+            "CAF",
+            "COD",
+            "GAB"
+        ],
+        "cca2": "CG",
+        "cca3": "COG",
+        "latitude": -1,
+        "longitude": 15
+    },
+    {
+        "name": "Romania",
+        "official_name": "România",
+        "capital": "Bucharest",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 19942642,
+        "area": 238391.0,
+        "currencies": [
+            "RON"
+        ],
+        "languages": [
+            "ro"
+        ],
+        "borders": [
+            "BGR",
+            "HUN",
+            "MDA",
+            "SRB",
+            "UKR"
+        ],
+        "cca2": "RO",
+        "cca3": "ROU",
+        "latitude": 46,
+        "longitude": 25
+    },
+    {
+        "name": "Russia",
+        "official_name": "Россия",
+        "capital": "Moscow",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 146233000,
+        "area": 17124442.0,
+        "currencies": [
+            "RUB"
+        ],
+        "languages": [
+            "ru"
+        ],
+        "borders": [
+            "AZE",
+            "BLR",
+            "CHN",
+            "EST",
+            "FIN",
+            "GEO",
+            "KAZ",
+            "PRK",
+            "LVA",
+            "LTU",
+            "MNG",
+            "NOR",
+            "POL",
+            "UKR"
+        ],
+        "cca2": "RU",
+        "cca3": "RUS",
+        "latitude": 60,
+        "longitude": 100
+    },
+    {
+        "name": "Rwanda",
+        "official_name": "Rwanda",
+        "capital": "Kigali",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 10996891,
+        "area": 26338.0,
+        "currencies": [
+            "RWF"
+        ],
+        "languages": [
+            "rw",
+            "en",
+            "fr",
+            "sw"
+        ],
+        "borders": [
+            "BDI",
+            "COD",
+            "TZA",
+            "UGA"
+        ],
+        "cca2": "RW",
+        "cca3": "RWA",
+        "latitude": -2,
+        "longitude": 30
+    },
+    {
+        "name": "Réunion",
+        "official_name": "La Réunion",
+        "capital": "Saint-Denis",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 840974,
+        "area": 0.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "RE",
+        "cca3": "REU",
+        "latitude": -21.15,
+        "longitude": 55.5
+    },
+    {
+        "name": "Saint Barthélemy",
+        "official_name": "Saint Barthélemy",
+        "capital": "Gustavia",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "BL",
+        "cca3": "BLM",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Saint Helena",
+        "official_name": "Saint Helena",
+        "capital": "Jamestown",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 4255,
+        "area": 0.0,
+        "currencies": [
+            "SHP"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "SH",
+        "cca3": "SHN",
+        "latitude": -15.95,
+        "longitude": -5.7
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "official_name": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 55000,
+        "area": 261.0,
+        "currencies": [
+            "XCD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "KN",
+        "cca3": "KNA",
+        "latitude": 17.33333333,
+        "longitude": -62.75
+    },
+    {
+        "name": "Saint Lucia",
+        "official_name": "Saint Lucia",
+        "capital": "Castries",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 184000,
+        "area": 616.0,
+        "currencies": [
+            "XCD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "LC",
+        "cca3": "LCA",
+        "latitude": 13.88333333,
+        "longitude": -60.96666666
+    },
+    {
+        "name": "Saint Martin (French part)",
+        "official_name": "Saint Martin (French part)",
+        "capital": "Marigot",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "MF",
+        "cca3": "MAF",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "official_name": "Saint-Pierre-et-Miquelon",
+        "capital": "Saint-Pierre",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "population": 6081,
+        "area": 242.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "PM",
+        "cca3": "SPM",
+        "latitude": 46.83333333,
+        "longitude": -56.33333333
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "official_name": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 109000,
+        "area": 389.0,
+        "currencies": [
+            "XCD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "VC",
+        "cca3": "VCT",
+        "latitude": 13.25,
+        "longitude": -61.2
+    },
+    {
+        "name": "Samoa",
+        "official_name": "Samoa",
+        "capital": "Apia",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 187820,
+        "area": 2842.0,
+        "currencies": [
+            "WST"
+        ],
+        "languages": [
+            "sm",
+            "en"
+        ],
+        "borders": [],
+        "cca2": "WS",
+        "cca3": "WSM",
+        "latitude": -13.58333333,
+        "longitude": -172.33333333
+    },
+    {
+        "name": "San Marino",
+        "official_name": "San Marino",
+        "capital": "City of San Marino",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 32743,
+        "area": 61.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "it"
+        ],
+        "borders": [
+            "ITA"
+        ],
+        "cca2": "SM",
+        "cca3": "SMR",
+        "latitude": 43.76666666,
+        "longitude": 12.41666666
+    },
+    {
+        "name": "Saudi Arabia",
+        "official_name": "العربية السعودية",
+        "capital": "Riyadh",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 30770375,
+        "area": 2149690.0,
+        "currencies": [
+            "SAR"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "IRQ",
+            "JOR",
+            "KWT",
+            "OMN",
+            "QAT",
+            "ARE",
+            "YEM"
+        ],
+        "cca2": "SA",
+        "cca3": "SAU",
+        "latitude": 25,
+        "longitude": 45
+    },
+    {
+        "name": "Scotland",
+        "official_name": "Alba",
+        "capital": "Edinburgh",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 5295000,
+        "area": 80231.0,
+        "currencies": [
+            "GBP"
+        ],
+        "languages": [
+            "English",
+            "Scots",
+            "Scottish Gaelic",
+            "British Sign Language"
+        ],
+        "borders": [],
+        "cca2": "",
+        "cca3": "",
+        "latitude": 56.4906712,
+        "longitude": -4.2026458
+    },
+    {
+        "name": "Senegal",
+        "official_name": "Sénégal",
+        "capital": "Dakar",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 13508715,
+        "area": 196722.0,
+        "currencies": [
+            "XOF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "GMB",
+            "GIN",
+            "GNB",
+            "MLI",
+            "MRT"
+        ],
+        "cca2": "SN",
+        "cca3": "SEN",
+        "latitude": 14,
+        "longitude": -14
+    },
+    {
+        "name": "Serbia",
+        "official_name": "Srbija",
+        "capital": "Belgrade",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 7186862,
+        "area": 49037.0,
+        "currencies": [
+            "RSD"
+        ],
+        "languages": [
+            "sr"
+        ],
+        "borders": [
+            "HUN",
+            "ROU",
+            "BGR",
+            "MKD",
+            "HRV",
+            "BIH",
+            "MNE",
+            "ALB",
+            "XKX"
+        ],
+        "cca2": "RS",
+        "cca3": "SRB",
+        "latitude": 44.016521,
+        "longitude": 21.005859
+    },
+    {
+        "name": "Serbia and Montenegro",
+        "official_name": "Srbija i Crna Gora",
+        "capital": "Belgrade",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 10832545,
+        "area": 102173.0,
+        "currencies": [
+            "CSD",
+            "EUR"
+        ],
+        "languages": [
+            "sr",
+            "sq",
+            "bs"
+        ],
+        "borders": [
+            "ALB",
+            "BIH",
+            "HRV",
+            "HUN",
+            "MKD",
+            "ROU"
+        ],
+        "cca2": "CS",
+        "cca3": "SCG",
+        "latitude": 44.0,
+        "longitude": 21.0
+    },
+    {
+        "name": "Seychelles",
+        "official_name": "Seychelles",
+        "capital": "Victoria",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 89949,
+        "area": 452.0,
+        "currencies": [
+            "SCR"
+        ],
+        "languages": [
+            "fr",
+            "en",
+            "crs"
+        ],
+        "borders": [],
+        "cca2": "SC",
+        "cca3": "SYC",
+        "latitude": -4.58333333,
+        "longitude": 55.66666666
+    },
+    {
+        "name": "Sierra Leone",
+        "official_name": "Sierra Leone",
+        "capital": "Freetown",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 6205000,
+        "area": 71740.0,
+        "currencies": [
+            "SLL"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "GIN",
+            "LBR"
+        ],
+        "cca2": "SL",
+        "cca3": "SLE",
+        "latitude": 8.5,
+        "longitude": -11.5
+    },
+    {
+        "name": "Singapore",
+        "official_name": "Singapore",
+        "capital": "Singapore",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 5469700,
+        "area": 710.0,
+        "currencies": [
+            "SGD"
+        ],
+        "languages": [
+            "en",
+            "ms",
+            "ta",
+            "zh"
+        ],
+        "borders": [],
+        "cca2": "SG",
+        "cca3": "SGP",
+        "latitude": 1.36666666,
+        "longitude": 103.8
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "official_name": "Sint Maarten (Dutch part)",
+        "capital": "Philipsburg",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "SX",
+        "cca3": "SXM",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Slovakia",
+        "official_name": "Slovensko",
+        "capital": "Bratislava",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 5415949,
+        "area": 49037.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "sk"
+        ],
+        "borders": [
+            "AUT",
+            "CZE",
+            "HUN",
+            "POL",
+            "UKR"
+        ],
+        "cca2": "SK",
+        "cca3": "SVK",
+        "latitude": 48.66666666,
+        "longitude": 19.5
+    },
+    {
+        "name": "Slovenia",
+        "official_name": "Slovenija",
+        "capital": "Ljubljana",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 2064966,
+        "area": 20273.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "sl"
+        ],
+        "borders": [
+            "AUT",
+            "HRV",
+            "ITA",
+            "HUN"
+        ],
+        "cca2": "SI",
+        "cca3": "SVN",
+        "latitude": 46.11666666,
+        "longitude": 14.81666666
+    },
+    {
+        "name": "Solomon Islands",
+        "official_name": "Solomon Islands",
+        "capital": "Honiara",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "population": 581344,
+        "area": 28896.0,
+        "currencies": [
+            "SBD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "SB",
+        "cca3": "SLB",
+        "latitude": -8,
+        "longitude": 159
+    },
+    {
+        "name": "Somalia",
+        "official_name": "Soomaaliya الصومال",
+        "capital": "Mogadishu",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 10806000,
+        "area": 637657.0,
+        "currencies": [
+            "SOS"
+        ],
+        "languages": [
+            "so",
+            "ar"
+        ],
+        "borders": [
+            "DJI",
+            "ETH",
+            "KEN"
+        ],
+        "cca2": "SO",
+        "cca3": "SOM",
+        "latitude": 10,
+        "longitude": 49
+    },
+    {
+        "name": "South Africa",
+        "official_name": "South Africa",
+        "capital": "Pretoria",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 54002000,
+        "area": 1221037.0,
+        "currencies": [
+            "ZAR"
+        ],
+        "languages": [
+            "af",
+            "en",
+            "nr",
+            "st",
+            "ss",
+            "tn",
+            "ts",
+            "ve",
+            "xh",
+            "zu",
+            "nso"
+        ],
+        "borders": [
+            "BWA",
+            "LSO",
+            "MOZ",
+            "NAM",
+            "SWZ",
+            "ZWE"
+        ],
+        "cca2": "ZA",
+        "cca3": "ZAF",
+        "latitude": -29,
+        "longitude": 24
+    },
+    {
+        "name": "South Georgia",
+        "official_name": "South Georgia",
+        "capital": "King Edward Point",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 30,
+        "area": 0.0,
+        "currencies": [
+            "GBP"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "GS",
+        "cca3": "SGS",
+        "latitude": -54.5,
+        "longitude": -37
+    },
+    {
+        "name": "South Korea",
+        "official_name": "대한민국",
+        "capital": "Seoul",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 50423955,
+        "area": 100210.0,
+        "currencies": [
+            "KRW"
+        ],
+        "languages": [
+            "ko"
+        ],
+        "borders": [
+            "PRK"
+        ],
+        "cca2": "KR",
+        "cca3": "KOR",
+        "latitude": 37,
+        "longitude": 127.5
+    },
+    {
+        "name": "South Sudan",
+        "official_name": "South Sudan",
+        "capital": "Juba",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 11384393,
+        "area": 619745.0,
+        "currencies": [
+            "SSP"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "CAF",
+            "COD",
+            "ETH",
+            "KEN",
+            "SDN",
+            "UGA"
+        ],
+        "cca2": "SS",
+        "cca3": "SSD",
+        "latitude": 7,
+        "longitude": 30
+    },
+    {
+        "name": "Spain",
+        "official_name": "España",
+        "capital": "Madrid",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "population": 46507760,
+        "area": 505992.0,
+        "currencies": [
+            "EUR"
+        ],
+        "languages": [
+            "es",
+            "an",
+            "ast",
+            "eu",
+            "ca",
+            "ext",
+            "fax",
+            "gl",
+            "oc",
+            "pt"
+        ],
+        "borders": [
+            "AND",
+            "FRA",
+            "GIB",
+            "PRT",
+            "MAR"
+        ],
+        "cca2": "ES",
+        "cca3": "ESP",
+        "latitude": 40,
+        "longitude": -4
+    },
+    {
+        "name": "Sri Lanka",
+        "official_name": "śrī laṃkāva",
+        "capital": "Colombo",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "population": 20277597,
+        "area": 65610.0,
+        "currencies": [
+            "LKR"
+        ],
+        "languages": [
+            "si",
+            "ta"
+        ],
+        "borders": [
+            "IND"
+        ],
+        "cca2": "LK",
+        "cca3": "LKA",
+        "latitude": 7,
+        "longitude": 81
+    },
+    {
+        "name": "Sudan",
+        "official_name": "السودان",
+        "capital": "Khartoum",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 37289406,
+        "area": 1886068.0,
+        "currencies": [
+            "SDG"
+        ],
+        "languages": [
+            "ar",
+            "en"
+        ],
+        "borders": [
+            "CAF",
+            "TCD",
+            "EGY",
+            "ERI",
+            "ETH",
+            "LBY",
+            "SSD"
+        ],
+        "cca2": "SD",
+        "cca3": "SDN",
+        "latitude": 15,
+        "longitude": 30
+    },
+    {
+        "name": "Suriname",
+        "official_name": "Suriname",
+        "capital": "Paramaribo",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 534189,
+        "area": 163820.0,
+        "currencies": [
+            "SRD"
+        ],
+        "languages": [
+            "nl"
+        ],
+        "borders": [
+            "BRA",
+            "GUF",
+            "FRA",
+            "GUY"
+        ],
+        "cca2": "SR",
+        "cca3": "SUR",
+        "latitude": 4,
+        "longitude": -56
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "official_name": "Svalbard og Jan Mayen",
+        "capital": "Longyearbyen",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 2562,
+        "area": 0.0,
+        "currencies": [
+            "NOK"
+        ],
+        "languages": [
+            "no"
+        ],
+        "borders": [],
+        "cca2": "SJ",
+        "cca3": "SJM",
+        "latitude": 78,
+        "longitude": 20
+    },
+    {
+        "name": "Swaziland",
+        "official_name": "Swaziland",
+        "capital": "Lobamba",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 1106189,
+        "area": 17364.0,
+        "currencies": [
+            "SZL"
+        ],
+        "languages": [
+            "en",
+            "ss"
+        ],
+        "borders": [
+            "MOZ",
+            "ZAF"
+        ],
+        "cca2": "SZ",
+        "cca3": "SWZ",
+        "latitude": -26.5,
+        "longitude": 31.5
+    },
+    {
+        "name": "Sweden",
+        "official_name": "Sverige",
+        "capital": "Stockholm",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 9737521,
+        "area": 450295.0,
+        "currencies": [
+            "SEK"
+        ],
+        "languages": [
+            "sv",
+            "fi",
+            "smj",
+            "fit",
+            "se",
+            "rom",
+            "sma",
+            "yi"
+        ],
+        "borders": [
+            "FIN",
+            "NOR"
+        ],
+        "cca2": "SE",
+        "cca3": "SWE",
+        "latitude": 62,
+        "longitude": 15
+    },
+    {
+        "name": "Switzerland",
+        "official_name": "Schweiz/Suisse/Svizzera/Svizra",
+        "capital": "Bern",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "population": 8183800,
+        "area": 41284.0,
+        "currencies": [
+            "CHE",
+            "CHF",
+            "CHW"
+        ],
+        "languages": [
+            "de",
+            "fr",
+            "it",
+            "rm",
+            "frp",
+            "yec"
+        ],
+        "borders": [
+            "AUT",
+            "FRA",
+            "ITA",
+            "LIE",
+            "DEU"
+        ],
+        "cca2": "CH",
+        "cca3": "CHE",
+        "latitude": 47,
+        "longitude": 8
+    },
+    {
+        "name": "Syria",
+        "official_name": "سوريا",
+        "capital": "Damascus",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 22964324,
+        "area": 185180.0,
+        "currencies": [
+            "SYP"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "IRQ",
+            "ISR",
+            "JOR",
+            "LBN",
+            "TUR"
+        ],
+        "cca2": "SY",
+        "cca3": "SYR",
+        "latitude": 35,
+        "longitude": 38
+    },
+    {
+        "name": "São Tomé and Príncipe",
+        "official_name": "São Tomé e Príncipe",
+        "capital": "São Tomé",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 187356,
+        "area": 964.0,
+        "currencies": [
+            "STD"
+        ],
+        "languages": [
+            "pt"
+        ],
+        "borders": [],
+        "cca2": "ST",
+        "cca3": "STP",
+        "latitude": 1,
+        "longitude": 7
+    },
+    {
+        "name": "Taiwan",
+        "official_name": "臺灣",
+        "capital": "Taipei",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "population": 23424615,
+        "area": 36193.0,
+        "currencies": [
+            "TWD"
+        ],
+        "languages": [
+            "zh"
+        ],
+        "borders": [],
+        "cca2": "TW",
+        "cca3": "TWN",
+        "latitude": 23.5,
+        "longitude": 121
+    },
+    {
+        "name": "Tajikistan",
+        "official_name": "Тоҷикистон",
+        "capital": "Dushanbe",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "population": 8161000,
+        "area": 143100.0,
+        "currencies": [
+            "TJS"
+        ],
+        "languages": [
+            "tg",
+            "ru"
+        ],
+        "borders": [
+            "AFG",
+            "CHN",
+            "KGZ",
+            "UZB"
+        ],
+        "cca2": "TJ",
+        "cca3": "TJK",
+        "latitude": 39,
+        "longitude": 71
+    },
+    {
+        "name": "Tanzania",
+        "official_name": "Tanzania",
+        "capital": "Dodoma",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 47421786,
+        "area": 945087.0,
+        "currencies": [
+            "TZS"
+        ],
+        "languages": [
+            "sw",
+            "en"
+        ],
+        "borders": [
+            "BDI",
+            "COD",
+            "KEN",
+            "MWI",
+            "MOZ",
+            "RWA",
+            "UGA",
+            "ZMB"
+        ],
+        "cca2": "TZ",
+        "cca3": "TZA",
+        "latitude": -6,
+        "longitude": 35
+    },
+    {
+        "name": "Thailand",
+        "official_name": "ประเทศไทย",
+        "capital": "Bangkok",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 64871000,
+        "area": 513120.0,
+        "currencies": [
+            "THB"
+        ],
+        "languages": [
+            "th"
+        ],
+        "borders": [
+            "MMR",
+            "KHM",
+            "LAO",
+            "MYS"
+        ],
+        "cca2": "TH",
+        "cca3": "THA",
+        "latitude": 15,
+        "longitude": 100
+    },
+    {
+        "name": "The Bahamas",
+        "official_name": "Bahamas",
+        "capital": "Nassau",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 319031,
+        "area": 13943.0,
+        "currencies": [
+            "BSD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "BS",
+        "cca3": "BHS",
+        "latitude": 24.25,
+        "longitude": -76
+    },
+    {
+        "name": "The Gambia",
+        "official_name": "Gambia",
+        "capital": "Banjul",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 1882450,
+        "area": 11295.0,
+        "currencies": [
+            "GMD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "SEN"
+        ],
+        "cca2": "GM",
+        "cca3": "GMB",
+        "latitude": 13.46666666,
+        "longitude": -16.56666666
+    },
+    {
+        "name": "Togo",
+        "official_name": "Togo",
+        "capital": "Lomé",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 6993000,
+        "area": 56785.0,
+        "currencies": [
+            "XOF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [
+            "BEN",
+            "BFA",
+            "GHA"
+        ],
+        "cca2": "TG",
+        "cca3": "TGO",
+        "latitude": 8,
+        "longitude": 1.16666666
+    },
+    {
+        "name": "Tokelau",
+        "official_name": "Tokelau",
+        "capital": "Fakaofo",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 1411,
+        "area": 12.0,
+        "currencies": [
+            "NZD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "TK",
+        "cca3": "TKL",
+        "latitude": -9,
+        "longitude": -172
+    },
+    {
+        "name": "Tonga",
+        "official_name": "Tonga",
+        "capital": "Nuku'alofa",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 103252,
+        "area": 747.0,
+        "currencies": [
+            "TOP"
+        ],
+        "languages": [
+            "en",
+            "to"
+        ],
+        "borders": [],
+        "cca2": "TO",
+        "cca3": "TON",
+        "latitude": -20,
+        "longitude": -175
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "official_name": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 1328019,
+        "area": 5130.0,
+        "currencies": [
+            "TTD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "TT",
+        "cca3": "TTO",
+        "latitude": 11,
+        "longitude": -61
+    },
+    {
+        "name": "Tunisia",
+        "official_name": "تونس",
+        "capital": "Tunis",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 10982754,
+        "area": 163610.0,
+        "currencies": [
+            "TND"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "DZA",
+            "LBY"
+        ],
+        "cca2": "TN",
+        "cca3": "TUN",
+        "latitude": 34,
+        "longitude": 9
+    },
+    {
+        "name": "Turkey",
+        "official_name": "Türkiye",
+        "capital": "Ankara",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 76667864,
+        "area": 783562.0,
+        "currencies": [
+            "TRY"
+        ],
+        "languages": [
+            "tr"
+        ],
+        "borders": [
+            "ARM",
+            "AZE",
+            "BGR",
+            "GEO",
+            "GRC",
+            "IRN",
+            "IRQ",
+            "SYR"
+        ],
+        "cca2": "TR",
+        "cca3": "TUR",
+        "latitude": 39,
+        "longitude": 35
+    },
+    {
+        "name": "Turkmenistan",
+        "official_name": "Türkmenistan",
+        "capital": "Ashgabat",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "population": 5838064,
+        "area": 488100.0,
+        "currencies": [
+            "TMT"
+        ],
+        "languages": [
+            "tk",
+            "ru"
+        ],
+        "borders": [
+            "AFG",
+            "IRN",
+            "KAZ",
+            "UZB"
+        ],
+        "cca2": "TM",
+        "cca3": "TKM",
+        "latitude": 40,
+        "longitude": 60
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "official_name": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "TC",
+        "cca3": "TCA",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Tuvalu",
+        "official_name": "Tuvalu",
+        "capital": "Funafuti",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 11323,
+        "area": 26.0,
+        "currencies": [
+            "AUD"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [],
+        "cca2": "TV",
+        "cca3": "TUV",
+        "latitude": -8,
+        "longitude": 178
+    },
+    {
+        "name": "Uganda",
+        "official_name": "Uganda",
+        "capital": "Kampala",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 34856813,
+        "area": 241550.0,
+        "currencies": [
+            "UGX"
+        ],
+        "languages": [
+            "en",
+            "sw"
+        ],
+        "borders": [
+            "COD",
+            "KEN",
+            "RWA",
+            "SSD",
+            "TZA"
+        ],
+        "cca2": "UG",
+        "cca3": "UGA",
+        "latitude": 1,
+        "longitude": 32
+    },
+    {
+        "name": "Ukraine",
+        "official_name": "Україна",
+        "capital": "Kyiv",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "population": 42973696,
+        "area": 603700.0,
+        "currencies": [
+            "UAH"
+        ],
+        "languages": [
+            "uk"
+        ],
+        "borders": [
+            "BLR",
+            "HUN",
+            "MDA",
+            "POL",
+            "ROU",
+            "RUS",
+            "SVK"
+        ],
+        "cca2": "UA",
+        "cca3": "UKR",
+        "latitude": 49,
+        "longitude": 32
+    },
+    {
+        "name": "United Arab Emirates",
+        "official_name": "دولة الإمارات العربية المتحدة",
+        "capital": "Abu Dhabi",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 9446000,
+        "area": 83600.0,
+        "currencies": [
+            "AED"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "OMN",
+            "SAU"
+        ],
+        "cca2": "AE",
+        "cca3": "ARE",
+        "latitude": 24,
+        "longitude": 54
+    },
+    {
+        "name": "United States",
+        "official_name": "United States",
+        "capital": "Washington D.C.",
+        "region": "Americas",
+        "subregion": "Northern America",
+        "population": 319259000,
+        "area": 9629091.0,
+        "currencies": [
+            "USD",
+            "USN",
+            "USS"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "CAN",
+            "MEX"
+        ],
+        "cca2": "US",
+        "cca3": "USA",
+        "latitude": 38,
+        "longitude": -97
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "official_name": "United States Minor Outlying Islands",
+        "capital": "N/A",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "UM",
+        "cca3": "UMI",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Uruguay",
+        "official_name": "Uruguay",
+        "capital": "Montevideo",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 3404189,
+        "area": 181034.0,
+        "currencies": [
+            "UYI",
+            "UYU"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "ARG",
+            "BRA"
+        ],
+        "cca2": "UY",
+        "cca3": "URY",
+        "latitude": -33,
+        "longitude": -56
+    },
+    {
+        "name": "Uzbekistan",
+        "official_name": "O‘zbekiston",
+        "capital": "Tashkent",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "population": 30492800,
+        "area": 447400.0,
+        "currencies": [
+            "UZS"
+        ],
+        "languages": [
+            "uz",
+            "ru"
+        ],
+        "borders": [
+            "AFG",
+            "KAZ",
+            "KGZ",
+            "TJK",
+            "TKM"
+        ],
+        "cca2": "UZ",
+        "cca3": "UZB",
+        "latitude": 41,
+        "longitude": 64
+    },
+    {
+        "name": "Vanuatu",
+        "official_name": "Vanuatu",
+        "capital": "Port Vila",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "population": 264652,
+        "area": 12189.0,
+        "currencies": [
+            "VUV"
+        ],
+        "languages": [
+            "bi",
+            "en",
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "VU",
+        "cca3": "VUT",
+        "latitude": -16,
+        "longitude": 167
+    },
+    {
+        "name": "Venezuela",
+        "official_name": "Venezuela",
+        "capital": "Caracas",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 30206307,
+        "area": 916445.0,
+        "currencies": [
+            "VEF"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "BRA",
+            "COL",
+            "GUY"
+        ],
+        "cca2": "VE",
+        "cca3": "VEN",
+        "latitude": 8,
+        "longitude": -66
+    },
+    {
+        "name": "Vietnam",
+        "official_name": "Việt Nam",
+        "capital": "Hanoi",
+        "region": "Asia",
+        "subregion": "South-eastern Asia",
+        "population": 89708900,
+        "area": 331212.0,
+        "currencies": [
+            "VND"
+        ],
+        "languages": [
+            "vi"
+        ],
+        "borders": [
+            "KHM",
+            "CHN",
+            "LAO"
+        ],
+        "cca2": "VN",
+        "cca3": "VNM",
+        "latitude": 16.16666666,
+        "longitude": 107.83333333
+    },
+    {
+        "name": "Virgin Islands, British",
+        "official_name": "Virgin Islands, British",
+        "capital": "Road Town",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "VG",
+        "cca3": "VGB",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Virgin Islands, U.S.",
+        "official_name": "Virgin Islands, U.S.",
+        "capital": "Charlotte Amalie",
+        "region": "Americas",
+        "subregion": "Latin America and the Caribbean",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "VI",
+        "cca3": "VIR",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Wales",
+        "official_name": "Wales",
+        "capital": "N/A",
+        "region": "Unknown",
+        "subregion": "Unknown",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "GB",
+        "cca3": "GBR",
+        "latitude": null,
+        "longitude": null
+    },
+    {
+        "name": "Wallis and Futuna",
+        "official_name": "Wallis et Futuna",
+        "capital": "Mata-Utu",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "population": 13135,
+        "area": 142.0,
+        "currencies": [
+            "XPF"
+        ],
+        "languages": [
+            "fr"
+        ],
+        "borders": [],
+        "cca2": "WF",
+        "cca3": "WLF",
+        "latitude": -13.3,
+        "longitude": -176.2
+    },
+    {
+        "name": "Western Sahara",
+        "official_name": "الصحراء الغربية",
+        "capital": "El Aaiún",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "population": 586000,
+        "area": 266000.0,
+        "currencies": [
+            "MAD",
+            "DZD",
+            "MRO"
+        ],
+        "languages": [
+            "es"
+        ],
+        "borders": [
+            "DZA",
+            "MRT",
+            "MAR"
+        ],
+        "cca2": "EH",
+        "cca3": "ESH",
+        "latitude": 24.5,
+        "longitude": -13
+    },
+    {
+        "name": "Yemen",
+        "official_name": "اليَمَن",
+        "capital": "Sana'a",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "population": 25956000,
+        "area": 527968.0,
+        "currencies": [
+            "YER"
+        ],
+        "languages": [
+            "ar"
+        ],
+        "borders": [
+            "OMN",
+            "SAU"
+        ],
+        "cca2": "YE",
+        "cca3": "YEM",
+        "latitude": 15,
+        "longitude": 48
+    },
+    {
+        "name": "Zambia",
+        "official_name": "Zambia",
+        "capital": "Lusaka",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 15023315,
+        "area": 752612.0,
+        "currencies": [
+            "ZMK"
+        ],
+        "languages": [
+            "en"
+        ],
+        "borders": [
+            "AGO",
+            "BWA",
+            "COD",
+            "MWI",
+            "MOZ",
+            "NAM",
+            "TZA",
+            "ZWE"
+        ],
+        "cca2": "ZM",
+        "cca3": "ZMB",
+        "latitude": -15,
+        "longitude": 30
+    },
+    {
+        "name": "Zimbabwe",
+        "official_name": "Zimbabwe",
+        "capital": "Harare",
+        "region": "Africa",
+        "subregion": "Sub-Saharan Africa",
+        "population": 13061239,
+        "area": 390757.0,
+        "currencies": [
+            "USD"
+        ],
+        "languages": [
+            "en",
+            "sn",
+            "nd",
+            "ny",
+            "kck",
+            "nmq",
+            "ndc",
+            "ts",
+            "st",
+            "toi",
+            "tn",
+            "ve",
+            "xh"
+        ],
+        "borders": [
+            "BWA",
+            "MOZ",
+            "ZAF",
+            "ZMB"
+        ],
+        "cca2": "ZW",
+        "cca3": "ZWE",
+        "latitude": -20,
+        "longitude": 30
+    },
+    {
+        "name": "Åland Islands",
+        "official_name": "Åland Islands",
+        "capital": "Mariehamn",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "population": 0,
+        "area": 0.0,
+        "currencies": [],
+        "languages": [],
+        "borders": [],
+        "cca2": "AX",
+        "cca3": "ALA",
+        "latitude": null,
+        "longitude": null
+    }
+]
