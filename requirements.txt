@@ -1,2 +1,0 @@
-countryinfo
-colorama
